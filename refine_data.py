@@ -43,6 +43,16 @@ def string_replacement(file_path):
     os.remove(file_path)
     os.rename(temp_file_path, file_path)
 
+def remove_empty_lines(file_path):
+    with open(file_path, 'r') as input_file, open('temp_file.txt', 'w') as temp_file:
+        lines = input_file.readlines()
+
+        for line in lines:
+            if line.strip():
+                temp_file.write(line)
+
+    shutil.move('temp_file.txt', file_path)
+
 def normalize_notes(file_path):
     with open(file_path, 'r') as input_file, open('temp_file.txt', 'w') as temp_file:
         lines = input_file.readlines()
