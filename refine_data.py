@@ -1,4 +1,5 @@
 import os
+import shutil
 import re
 
 def string_replacement(file_path):
@@ -41,3 +42,21 @@ def string_replacement(file_path):
 
     os.remove(file_path)
     os.rename(temp_file_path, file_path)
+
+def normalize_notes(file_path):
+    with open(file_path, 'r') as input_file, open('temp_file.txt', 'w') as temp_file:
+        lines = input_file.readlines()
+
+        for line in lines:
+            line_list = line.strip().split(',')
+            line_is_digit = line_list[0].isdigit()
+            one_item = len(line_list) == 1
+            if (one_item and line_is_digit):
+                if (line_list[0] == '1' or line_list[0][0] == '1'):
+                    new_line = line.replace('1', '7,')
+                    temp_file.write(new_line)
+                else:
+                    temp_file.write(','.join([number for number in line_list[0]]) + '\n')
+            else:
+                temp_file.write(line)
+    shutil.move('temp_file.txt', file_path)
