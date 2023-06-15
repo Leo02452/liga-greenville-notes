@@ -1,0 +1,436 @@
+POS,NOME,NP,TIME,ADVERSARIO,COMPETICAO
+PE,L. Sané,9.0,Sampdoria,Lecce,B
+ATA,P. Aubameyang,8.7,Sampdoria,Lecce,B
+PD,R. Mahrez,9.4,Sampdoria,Lecce,B
+MC,H. Calhanoglu,6.1,Sampdoria,Lecce,B
+MC,N. Fekir,6.6,Sampdoria,Lecce,B
+VLE,J. Musiala,8.1,Sampdoria,Lecce,B
+VLD,Y. Tielemans,6.2,Sampdoria,Lecce,B
+LE,L. Spinazzola,7.4,Sampdoria,Lecce,B
+ZGE,C. Romero,7.3,Sampdoria,Lecce,B
+ZGD,S. Ramos,7.1,Sampdoria,Lecce,B
+LD,D. Raum,5.9,Sampdoria,Lecce,B
+LD,R. Baku,6.9,Sampdoria,Lecce,B
+GOL,P. Gulacsi,7.8,Sampdoria,Lecce,B
+PE,S. Mané,6.5,Lecce,Sampdoria,B
+ATA,R. Lewandowski,5.9,Lecce,Sampdoria,B
+PD,F. Ruiz,6.2,Lecce,Sampdoria,B
+MCE,M. Merino,6.9,Lecce,Sampdoria,B
+MC,I. Gundogan,6.4,Lecce,Sampdoria,B
+MCD,D. Olmo,6.8,Lecce,Sampdoria,B
+LE,G. Montiel,5.9,Lecce,Sampdoria,B
+ZGE,L. Martínez,6.4,Lecce,Sampdoria,B
+ZGD,T. Silva,6.8,Lecce,Sampdoria,B
+ZGD,I. Konate,6.0,Lecce,Sampdoria,B
+LD,K. Trippier,6.6,Lecce,Sampdoria,B
+GOL,E. Martinez,6.0,Lecce,Sampdoria,B
+ATA,P. Dybala,6.0,Torino,Fiorentina,A
+ATA,H. Son,7.9,Torino,Fiorentina,A
+MAE,Neymar Jr,8.0,Torino,Fiorentina,A
+MAD,L. Messi,7.3,Torino,Fiorentina,A
+MCE,M. Llorente,6.0,Torino,Fiorentina,A
+MCE,N. Barella,6.1,Torino,Fiorentina,A
+MCD,R. De Paul,5.7,Torino,Fiorentina,A
+MCD,B. Fernandes,5.9,Torino,Fiorentina,A
+VOL,N. Kanté,6.9,Torino,Fiorentina,A
+LE,B. Chilwell,7.3,Torino,Fiorentina,A
+ZGE,M. de Ligt,6.3,Torino,Fiorentina,A
+ZGD,R. Dias,6.4,Torino,Fiorentina,A
+ADD,J. Cancelo,7.8,Torino,Fiorentina,A
+GOL,M. ter Stegen,6.6,Torino,Fiorentina,A
+PE,P. Pogba,6.0,Fiorentina,Torino,A
+PE,Rodrygo,6.4,Fiorentina,Torino,A
+ATA,V. Osimhen,8.7,Fiorentina,Torino,A
+PD,H. Ziyech,6.0,Fiorentina,Torino,A
+PD,M. Salah,8.1,Fiorentina,Torino,A
+MCE,F. Valverde,6.2,Fiorentina,Torino,A
+MCE,B. Silva,7.2,Fiorentina,Torino,A
+MCD,K. De Bruyne,8.0,Fiorentina,Torino,A
+VOL,Fabinho,7.3,Fiorentina,Torino,A
+LE,A. Robertson,7.2,Fiorentina,Torino,A
+ZGE,V. van Dijk,7.5,Fiorentina,Torino,A
+ZGD,A. Laporte,7.2,Fiorentina,Torino,A
+LD,K. Walker,7.4,Fiorentina,Torino,A
+GOL,Alisson,6.0,Fiorentina,Torino,A
+PE,Vinicius Jr.,7.2,Udinese,Salernitana,B
+PD,Raphinha,6.1,Udinese,Salernitana,B
+SA,A. Griezmann,7.5,Udinese,Salernitana,B
+MCE,S. Milinkovic-Savic,6.0,Udinese,Salernitana,B
+MCD,Isco,5.5,Udinese,Salernitana,B
+MCD,T. Lemar,6.8,Udinese,Salernitana,B
+VOL,Luis Alberto,5.8,Udinese,Salernitana,B
+VOL,R. Bentancur,5.7,Udinese,Salernitana,B
+LE,L. Shaw,7.6,Udinese,Salernitana,B
+ZGE,S. de Vrij,6.7,Udinese,Salernitana,B
+ZGD,M. Skriniar,6.6,Udinese,Salernitana,B
+LD,C. Azpilicueta,6.8,Udinese,Salernitana,B
+GOL,D. De Gea,6.6,Udinese,Salernitana,B
+ATA,P. Schick,9.3,Salernitana,Udinese,B
+MEE,M. Diaby,8.6,Salernitana,Udinese,B
+MEI,J. Maddison,6.1,Salernitana,Udinese,B
+MEI,M. Reus,6.6,Salernitana,Udinese,B
+MED,H. Lozano,7.2,Salernitana,Udinese,B
+MED,G. Jesus,6.1,Salernitana,Udinese,B
+VLE,L. Pellegrini,6.0,Salernitana,Udinese,B
+VLE,T. Partey,7.9,Salernitana,Udinese,B
+VLD,J. Bellingham,6.5,Salernitana,Udinese,B
+LE,F. Mendy,7.8,Salernitana,Udinese,B
+ZGE,G. Paulista,7.5,Salernitana,Udinese,B
+ZGD,R. Varane,6.5,Salernitana,Udinese,B
+LD,N. Mazraoui,7.8,Salernitana,Udinese,B
+GOL,M. Neuer,6.4,Salernitana,Udinese,B
+ATA,E. Haaland,6.6,Roma,Atalanta,A
+SA,A. Talisca,6.2,Roma,Atalanta,A
+SA,C. Soler,7.3,Roma,Atalanta,A
+ME,Y. Carrasco,6.7,Roma,Atalanta,A
+ME,R. Leão,7.0,Roma,Atalanta,A
+MCE,F. Kostic,6.0,Roma,Atalanta,A
+MCE,P. Zielinski,6.0,Roma,Atalanta,A
+MCD,Casemiro,6.6,Roma,Atalanta,A
+MD,D. Berardi,7.7,Roma,Atalanta,A
+MD,M. Rashford,7.5,Roma,Atalanta,A
+LE,A. Grimaldo,7.0,Roma,Atalanta,A
+ZGE,E. Ndicka,7.5,Roma,Atalanta,A
+ZGD,J. Gomez,7.3,Roma,Atalanta,A
+LD,P. Porro,6.6,Roma,Atalanta,A
+GOL,E. Mendy,6.9,Roma,Atalanta,A
+ATA,K. Benzema,7.9,Atalanta,Roma,A
+MAE,I. Williams,7.6,Atalanta,Roma,A
+MAE,M. Oyarzabal,7.3,Atalanta,Roma,A
+MAD,J. Doku,6.0,Atalanta,Roma,A
+MAD,W. Zaha,6.7,Atalanta,Roma,A
+MCE,M. Nunes,6.9,Atalanta,Roma,A
+MCE,S. Canales,6.8,Atalanta,Roma,A
+MC,E. Can,6.6,Atalanta,Roma,A
+MCD,L. Goretzka,6.6,Atalanta,Roma,A
+LE,M. Acuña,7.8,Atalanta,Roma,A
+ZGE,Diego Carlos,7.5,Atalanta,Roma,A
+ZGD,M. Ginter,5.8,Atalanta,Roma,A
+ZGD,S. Savic,5.4,Atalanta,Roma,A
+LD,G. Di Lorenzo,5.9,Atalanta,Roma,A
+GOL,K. Navas,6.3,Atalanta,Roma,A
+PE,C. Pulisic,6.7,Sampdoria,Monza,B
+PE,L. Sané,6.6,Sampdoria,Monza,B
+ATA,P. Aubameyang,6.7,Sampdoria,Monza,B
+ATA,N. Fekir,7.6,Sampdoria,Monza,B
+PD,P. Gonçalves,6.1,Sampdoria,Monza,B
+PD,R. Mahrez,6.2,Sampdoria,Monza,B
+MC,H. Calhanoglu,6.2,Sampdoria,Monza,B
+MC,J. Musiala,5.6,Sampdoria,Monza,B
+VLE,F. Wirtz,5.9,Sampdoria,Monza,B
+VLD,Y. Tielemans,7.0,Sampdoria,Monza,B
+LE,L. Spinazzola,6.9,Sampdoria,Monza,B
+ZGE,C. Romero,6.6,Sampdoria,Monza,B
+ZGD,S. Ramos,7.3,Sampdoria,Monza,B
+LD,D. Raum,7.0,Sampdoria,Monza,B
+GOL,P. Gulacsi,6.3,Sampdoria,Monza,B
+PE,A. Saint-Maximin,6.3,Monza,Sampdoria,B
+PD,F. Chiesa,8.2,Monza,Sampdoria,B
+PD,F. Torres,7.8,Monza,Sampdoria,B
+SA,L. Muriel,6.0,Monza,Sampdoria,B
+SA,H. Kane,7.9,Monza,Sampdoria,B
+MCE,D. Tadic,5.5,Monza,Sampdoria,B
+MCE,Pedri,6.6,Monza,Sampdoria,B
+MCD,I. Perisic,7.1,Monza,Sampdoria,B
+MCD,M. Odegaard,7.8,Monza,Sampdoria,B
+VOL,W. Ndidi,6.5,Monza,Sampdoria,B
+LE,T. Hernandez,7.0,Monza,Sampdoria,B
+ZGE,P. Torres,5.8,Monza,Sampdoria,B
+ZGE,J. Matip,6.2,Monza,Sampdoria,B
+ZGD,J. Kounde,6.4,Monza,Sampdoria,B
+LD,L. Vazquez,7.4,Monza,Sampdoria,B
+GOL,M. Maignan,7.4,Monza,Sampdoria,B
+ATA,P. Dybala,6.3,Torino,Internazionale,A
+ATA,H. Son,6.6,Torino,Internazionale,A
+MAE,Neymar Jr,7.8,Torino,Internazionale,A
+MAD,L. Messi,7.1,Torino,Internazionale,A
+MCE,M. Llorente,6.1,Torino,Internazionale,A
+MCE,N. Barella,6.6,Torino,Internazionale,A
+MCD,R. De Paul,6.6,Torino,Internazionale,A
+VOL,N. Kanté,7.1,Torino,Internazionale,A
+LE,B. Chilwell,7.7,Torino,Internazionale,A
+ZGE,M. de Ligt,7.1,Torino,Internazionale,A
+ZGD,R. Dias,6.8,Torino,Internazionale,A
+ADD,J. Cancelo,6.6,Torino,Internazionale,A
+GOL,M. ter Stegen,7.2,Torino,Internazionale,A
+ATA,S. Becker,5.9,Internazionale,Torino,A
+ATA,L. Martinez,7.0,Internazionale,Torino,A
+MEE,G. Martinelli,5.9,Internazionale,Torino,A
+MEE,Rafa,5.8,Internazionale,Torino,A
+MEI,K. Havertz,6.1,Internazionale,Torino,A
+MED,Antony,6.3,Internazionale,Torino,A
+MC,L. Modric,6.5,Internazionale,Torino,A
+VLD,D. Zakaria,6.3,Internazionale,Torino,A
+LE,N. Mendes,7.5,Internazionale,Torino,A
+ZGE,D. Alaba,6.6,Internazionale,Torino,A
+ZGD,E. Militão,5.9,Internazionale,Torino,A
+LD,D. Dumfries,6.9,Internazionale,Torino,A
+GOL,H. Lloris,7.5,Internazionale,Torino,A
+PE,S. Mané,7.3,Lecce,Sampdoria,C
+ATA,R. Lewandowski,8.6,Lecce,Sampdoria,C
+PD,N. Gonzaliez,6.5,Lecce,Sampdoria,C
+MCE,I. Gundogan,6.5,Lecce,Sampdoria,C
+MCD,M. Merino,6.8,Lecce,Sampdoria,C
+VOL,S. Busquets,6.1,Lecce,Sampdoria,C
+LE,L. Martínez,7.9,Lecce,Sampdoria,C
+ZGE,I. Konate,7.3,Lecce,Sampdoria,C
+ZGD,T. Silva,6.4,Lecce,Sampdoria,C
+LD,K. Trippier,7.4,Lecce,Sampdoria,C
+GOL,E. Martinez,8.2,Lecce,Sampdoria,C
+PE,L. Sané,7.1,Sampdoria,Lecce,C
+ATA,P. Gonçalves,6.2,Sampdoria,Lecce,C
+ATA,P. Aubameyang,6.1,Sampdoria,Lecce,C
+ATA,N. Fekir,6.9,Sampdoria,Lecce,C
+PD,C. Pulisic,5.9,Sampdoria,Lecce,C
+PD,R. Mahrez,7.4,Sampdoria,Lecce,C
+MC,J. Musiala,5.9,Sampdoria,Lecce,C
+VLE,F. Wirtz,5.5,Sampdoria,Lecce,C
+VLD,Y. Tielemans,6.6,Sampdoria,Lecce,C
+LE,L. Spinazzola,7.3,Sampdoria,Lecce,C
+ZGE,C. Romero,6.1,Sampdoria,Lecce,C
+ZGD,N. Schlotterbeck,5.9,Sampdoria,Lecce,C
+ZGD,S. Ramos,7.3,Sampdoria,Lecce,C
+LD,R. Baku,7.2,Sampdoria,Lecce,C
+GOL,P. Gulacsi,5.8,Sampdoria,Lecce,C
+PE,A. Saint-Maximin,6.1,Monza,Udinese,B
+PD,D Kulusevski,6.0,Monza,Udinese,B
+PD,F. Chiesa,8.2,Monza,Udinese,B
+PD,F. Torres,7.1,Monza,Udinese,B
+SA,G. Moreno,6.9,Monza,Udinese,B
+SA,H. Kane,8.7,Monza,Udinese,B
+MCE,Pedri,8.4,Monza,Udinese,B
+MCD,I. Perisic,5.8,Monza,Udinese,B
+MCD,M. Odegaard,6.7,Monza,Udinese,B
+VOL,W. Ndidi,7.4,Monza,Udinese,B
+LE,T. Hernandez,7.0,Monza,Udinese,B
+ZGE,P. Torres,6.2,Monza,Udinese,B
+ZGE,J. Matip,6.7,Monza,Udinese,B
+ZGD,J. Kounde,6.5,Monza,Udinese,B
+LD,L. Vazquez,7.7,Monza,Udinese,B
+GOL,M. Maignan,7.2,Monza,Udinese,B
+PE,Vinicius Jr.,6.8,Udinese,Monza,B
+PD,Isco,6.2,Udinese,Monza,B
+PD,Raphinha,5.7,Udinese,Monza,B
+SA,A. Griezmann,6.1,Udinese,Monza,B
+MCE,Luis Alberto,5.5,Udinese,Monza,B
+MCD,T. Lemar,6.4,Udinese,Monza,B
+VOL,S. Milinkovic-Savic,6.7,Udinese,Monza,B
+VOL,R. Bentancur,5.9,Udinese,Monza,B
+LE,L. Shaw,7.4,Udinese,Monza,B
+ZGE,S. de Vrij,6.9,Udinese,Monza,B
+ZGD,M. Skriniar,7.1,Udinese,Monza,B
+LD,C. Azpilicueta,7.1,Udinese,Monza,B
+GOL,D. De Gea,6.6,Udinese,Monza,B
+ATA,C. Pulisic,7.5,Sampdoria,Lecce,C
+ATA,P. Aubameyang,6.1,Sampdoria,Lecce,C
+MEI,F. Wirtz,5.7,Sampdoria,Lecce,C
+MEI,N. Fekir,8.0,Sampdoria,Lecce,C
+ME,L. Sané,6.4,Sampdoria,Lecce,C
+MD,R. Mahrez,7.8,Sampdoria,Lecce,C
+VLE,H. Calhanoglu,7.0,Sampdoria,Lecce,C
+VLE,J. Musiala,7.0,Sampdoria,Lecce,C
+VLD,Y. Tielemans,6.6,Sampdoria,Lecce,C
+LE,L. Spinazzola,7.8,Sampdoria,Lecce,C
+ZGE,C. Romero,6.7,Sampdoria,Lecce,C
+ZGD,N. Schlotterbeck,6.7,Sampdoria,Lecce,C
+ZGD,S. Ramos,6.1,Sampdoria,Lecce,C
+LD,D. Raum,6.9,Sampdoria,Lecce,C
+GOL,P. Gulacsi,7.0,Sampdoria,Lecce,C
+PE,M. Merino,6.5,Lecce,Sampdoria,C
+ATA,R. Lewandowski,5.9,Lecce,Sampdoria,C
+PD,S. Mané,6.7,Lecce,Sampdoria,C
+PD,D. Olmo,6.4,Lecce,Sampdoria,C
+MCE,K. Trippier,6.8,Lecce,Sampdoria,C
+MC,I. Gundogan,6.6,Lecce,Sampdoria,C
+MCD,S. Busquets,6.8,Lecce,Sampdoria,C
+LE,F. Acheampong,6.1,Lecce,Sampdoria,C
+ZGE,T. Silva,7.4,Lecce,Sampdoria,C
+ZGD,L. Martínez,6.2,Lecce,Sampdoria,C
+LD,J. Gaya,7.5,Lecce,Sampdoria,C
+GOL,E. Martinez,6.0,Lecce,Sampdoria,C
+ATA,K. Benzema,8.1,Atalanta,Fiorentina,A
+MAE,J. Doku,5.9,Atalanta,Fiorentina,A
+MAE,M. Oyarzabal,6.4,Atalanta,Fiorentina,A
+MAD,I. Williams,6.0,Atalanta,Fiorentina,A
+MAD,W. Zaha,7.1,Atalanta,Fiorentina,A
+MCE,M. Nunes,5.9,Atalanta,Fiorentina,A
+MCE,S. Canales,6.8,Atalanta,Fiorentina,A
+MC,E. Can,6.8,Atalanta,Fiorentina,A
+MCD,L. Goretzka,6.5,Atalanta,Fiorentina,A
+LE,M. Acuña,6.5,Atalanta,Fiorentina,A
+ZGE,Diego Carlos,6.1,Atalanta,Fiorentina,A
+ZGD,M. Ginter,6.1,Atalanta,Fiorentina,A
+ZGD,S. Savic,6.2,Atalanta,Fiorentina,A
+LD,G. Di Lorenzo,6.9,Atalanta,Fiorentina,A
+GOL,K. Navas,7.2,Atalanta,Fiorentina,A
+ATE,Rodrygo,7.1,Fiorentina,Atalanta,A
+ATA,V. Osimhen,6.1,Fiorentina,Atalanta,A
+ATD,M. Salah,7.5,Fiorentina,Atalanta,A
+MEI,B. Silva,6.7,Fiorentina,Atalanta,A
+MCE,F. Valverde,5.7,Fiorentina,Atalanta,A
+MCD,P. Pogba,5.7,Fiorentina,Atalanta,A
+MCD,K. De Bruyne,6.5,Fiorentina,Atalanta,A
+VOL,Fabinho,7.1,Fiorentina,Atalanta,A
+LE,A. Robertson,6.6,Fiorentina,Atalanta,A
+ZGE,V. van Dijk,7.4,Fiorentina,Atalanta,A
+ZGD,A. Laporte,7.2,Fiorentina,Atalanta,A
+LD,A. Hakimi,6.0,Fiorentina,Atalanta,A
+LD,K. Walker,6.3,Fiorentina,Atalanta,A
+GOL,Alisson,6.1,Fiorentina,Atalanta,A
+ATA,K. Benzema,8.6,Atalanta,Internazionale,A
+MAE,M. Oyarzabal,7.8,Atalanta,Internazionale,A
+MAD,W. Zaha,6.7,Atalanta,Internazionale,A
+MCE,S. Canales,6.8,Atalanta,Internazionale,A
+MC,E. Can,6.2,Atalanta,Internazionale,A
+MC,G. Di Lorenzo,6.0,Atalanta,Internazionale,A
+MCD,L. Goretzka,8.1,Atalanta,Internazionale,A
+LE,M. Acuña,7.3,Atalanta,Internazionale,A
+ZGE,Diego Carlos,6.2,Atalanta,Internazionale,A
+ZGD,S. Savic,7.0,Atalanta,Internazionale,A
+LD,J. Corona,6.9,Atalanta,Internazionale,A
+GOL,K. Navas,6.5,Atalanta,Internazionale,A
+PE,Antony,7.2,Internazionale,Atalanta,A
+ATA,L. Martinez,7.2,Internazionale,Atalanta,A
+MEI,K. Havertz,8.1,Internazionale,Atalanta,A
+MCE,L. Modric,6.8,Internazionale,Atalanta,A
+MCD,D. Zakaria,6.2,Internazionale,Atalanta,A
+MD,Rafa,7.7,Internazionale,Atalanta,A
+LE,N. Mendes,7.0,Internazionale,Atalanta,A
+ZGE,D. Alaba,6.7,Internazionale,Atalanta,A
+ZGD,E. Militão,7.3,Internazionale,Atalanta,A
+LD,D. Dumfries,7.4,Internazionale,Atalanta,A
+GOL,H. Lloris,6.9,Internazionale,Atalanta,A
+ATA,T. Werner,6.2,Salernitana,Lecce,B
+ATA,P. Schick,6.8,Salernitana,Lecce,B
+MEE,M. Mount,6.0,Salernitana,Lecce,B
+MEE,M. Diaby,5.9,Salernitana,Lecce,B
+MEI,J. Maddison,7.3,Salernitana,Lecce,B
+MEI,M. Reus,6.0,Salernitana,Lecce,B
+MED,G. Jesus,7.0,Salernitana,Lecce,B
+VLE,L. Pellegrini,6.4,Salernitana,Lecce,B
+VLE,T. Partey,7.3,Salernitana,Lecce,B
+VLD,J. Bellingham,7.3,Salernitana,Lecce,B
+LE,F. Mendy,7.8,Salernitana,Lecce,B
+ZGE,G. Paulista,7.2,Salernitana,Lecce,B
+ZGD,R. Varane,6.9,Salernitana,Lecce,B
+LD,N. Mazraoui,7.1,Salernitana,Lecce,B
+GOL,M. Neuer,6.1,Salernitana,Lecce,B
+PE,S. Mané,7.6,Lecce,Salernitana,B
+ATA,R. Lewandowski,6.3,Lecce,Salernitana,B
+PD,N. Gonzaliez,5.9,Lecce,Salernitana,B
+PD,T. Silva,5.5,Lecce,Salernitana,B
+MCE,M. Merino,6.9,Lecce,Salernitana,B
+MCD,K. Sulemana,5.3,Lecce,Salernitana,B
+MCD,I. Gundogan,6.3,Lecce,Salernitana,B
+VOL,S. Busquets,6.8,Lecce,Salernitana,B
+LE,J. Gaya,7.1,Lecce,Salernitana,B
+ZGE,L. Martínez,6.8,Lecce,Salernitana,B
+ZGD,I. Konate,5.8,Lecce,Salernitana,B
+LD,K. Trippier,6.8,Lecce,Salernitana,B
+GOL,E. Martinez,8.0,Lecce,Salernitana,B
+PE,F. Acheampong,6.8,Lecce,Udinese,B
+PE,S. Mané,5.9,Lecce,Udinese,B
+ATA,R. Lewandowski,7.8,Lecce,Udinese,B
+PD,N. Gonzaliez,7.2,Lecce,Udinese,B
+MCE,D. Olmo,7.0,Lecce,Udinese,B
+MCE,M. Merino,6.5,Lecce,Udinese,B
+MCD,I. Gundogan,7.3,Lecce,Udinese,B
+VOL,S. Busquets,6.9,Lecce,Udinese,B
+LE,J. Gaya,6.8,Lecce,Udinese,B
+ZGE,I. Konate,6.5,Lecce,Udinese,B
+ZGD,L. Martínez,7.5,Lecce,Udinese,B
+LD,K. Trippier,6.9,Lecce,Udinese,B
+GOL,E. Martinez,7.0,Lecce,Udinese,B
+PE,Vinicius Jr.,6.6,Udinese,Lecce,B
+PD,Raphinha,6.6,Udinese,Lecce,B
+SA,A. Griezmann,6.9,Udinese,Lecce,B
+MCE,S. Milinkovic-Savic,6.5,Udinese,Lecce,B
+MCD,T. Lemar,6.6,Udinese,Lecce,B
+VOL,R. Bentancur,6.5,Udinese,Lecce,B
+LE,L. Shaw,7.3,Udinese,Lecce,B
+ZGE,S. de Vrij,7.0,Udinese,Lecce,B
+ZGD,M. Skriniar,7.0,Udinese,Lecce,B
+LD,C. Azpilicueta,6.3,Udinese,Lecce,B
+GOL,D. De Gea,6.9,Udinese,Lecce,B
+ATE,V. Osimhen,7.5,Fiorentina,Roma,A
+ATD,M. Salah,6.6,Fiorentina,Roma,A
+MEI,B. Silva,6.9,Fiorentina,Roma,A
+MCE,F. Valverde,8.0,Fiorentina,Roma,A
+MCD,K. De Bruyne,7.4,Fiorentina,Roma,A
+VOL,Fabinho,6.5,Fiorentina,Roma,A
+LE,A. Robertson,6.9,Fiorentina,Roma,A
+ZGE,V. van Dijk,6.9,Fiorentina,Roma,A
+ZGD,A. Laporte,6.5,Fiorentina,Roma,A
+LD,K. Walker,7.0,Fiorentina,Roma,A
+GOL,Alisson,5.8,Fiorentina,Roma,A
+ATA,E. Haaland,7.3,Roma,Fiorentina,A
+SA,A. Talisca,6.4,Roma,Fiorentina,A
+ME,R. Leão,6.7,Roma,Fiorentina,A
+MCE,C. Soler,5.9,Roma,Fiorentina,A
+MCD,Casemiro,6.2,Roma,Fiorentina,A
+MD,D. Berardi,7.4,Roma,Fiorentina,A
+LE,A. Grimaldo,7.9,Roma,Fiorentina,A
+ZGE,E. Ndicka,7.4,Roma,Fiorentina,A
+ZGD,J. Gomez,7.7,Roma,Fiorentina,A
+LD,P. Porro,7.4,Roma,Fiorentina,A
+GOL,E. Mendy,6.5,Roma,Fiorentina,A
+ATA,T. Werner,6.0,Salernitana,Monza,B
+ATA,P. Schick,6.5,Salernitana,Monza,B
+MEE,H. Lozano,6.0,Salernitana,Monza,B
+MEE,M. Diaby,6.5,Salernitana,Monza,B
+MEI,J. Maddison,6.0,Salernitana,Monza,B
+MEI,M. Reus,7.1,Salernitana,Monza,B
+MED,M. Mount,6.0,Salernitana,Monza,B
+MED,G. Jesus,6.1,Salernitana,Monza,B
+VLE,L. Pellegrini,6.0,Salernitana,Monza,B
+VLE,T. Partey,6.8,Salernitana,Monza,B
+VLD,J. Bellingham,6.1,Salernitana,Monza,B
+LE,F. Mendy,7.1,Salernitana,Monza,B
+ZGE,G. Paulista,7.8,Salernitana,Monza,B
+ZGD,R. Varane,6.6,Salernitana,Monza,B
+LD,N. Mazraoui,6.6,Salernitana,Monza,B
+GOL,M. Neuer,6.2,Salernitana,Monza,B
+PE,A. Saint-Maximin,6.0,Monza,Salernitana,B
+PE,F. Chiesa,7.2,Monza,Salernitana,B
+PD,D. Kulusevski,8.5,Monza,Salernitana,B
+PD,F. Torres,8.0,Monza,Salernitana,B
+SA,L. Muriel,6.9,Monza,Salernitana,B
+SA,H. Kane,7.8,Monza,Salernitana,B
+MCE,Pedri,5.8,Monza,Salernitana,B
+MCD,I. Perisic,6.2,Monza,Salernitana,B
+MCD,M. Odegaard,6.1,Monza,Salernitana,B
+VOL,W. Ndidi,7.0,Monza,Salernitana,B
+LE,T. Hernandez,7.1,Monza,Salernitana,B
+ZGE,P. Torres,6.3,Monza,Salernitana,B
+ZGE,J. Matip,6.8,Monza,Salernitana,B
+ZGD,J. Kounde,6.6,Monza,Salernitana,B
+LD,L. Vazquez,7.2,Monza,Salernitana,B
+GOL,M. Maignan,6.9,Monza,Salernitana,B
+ATA,E. Haaland,8.7,Roma,Torino,A
+MAE,F. Kostic,7.0,Roma,Torino,A
+MAE,R. Leão,7.5,Roma,Torino,A
+MAD,M. Rashford,5.8,Roma,Torino,A
+MAD,D. Berardi,8.7,Roma,Torino,A
+MCE,Y. Carrasco,6.0,Roma,Torino,A
+MCE,A. Talisca,8.2,Roma,Torino,A
+MC,Casemiro,6.9,Roma,Torino,A
+MCD,I. Muniain,5.9,Roma,Torino,A
+MCD,C. Soler,7.0,Roma,Torino,A
+LE,A. Grimaldo,7.6,Roma,Torino,A
+ZGE,E. Ndicka,8.1,Roma,Torino,A
+ZGD,J. Gomez,7.7,Roma,Torino,A
+LD,P. Porro,7.2,Roma,Torino,A
+GOL,E. Mendy,7.4,Roma,Torino,A
+ATA,D. Jota,5.9,Torino,Roma,A
+ATA,H. Son,6.1,Torino,Roma,A
+MAE,Neymar Jr,6.4,Torino,Roma,A
+MAD,L. Messi,6.3,Torino,Roma,A
+MCE,M. Llorente,5.8,Torino,Roma,A
+MCE,N. Barella,5.8,Torino,Roma,A
+MCD,R. De Paul,6.4,Torino,Roma,A
+VOL,N. Kante,5.9,Torino,Roma,A
+LE,B. Chilwell,6.7,Torino,Roma,A
+ZGE,M. de Ligt,6.6,Torino,Roma,A
+ZGD,R. Dias,6.4,Torino,Roma,A
+ADD,J. Cancelo,7.1,Torino,Roma,A
+GOL,M. ter Stegen,6.3,Torino,Roma,A
