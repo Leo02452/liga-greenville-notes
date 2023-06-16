@@ -1,0 +1,42 @@
+ATA
+ATA
+PD
+MEI
+ME
+MCE
+MCD
+MD
+VOL
+LE
+ZGE
+ZGD
+LD
+GOL
+P. Schick
+Z. Ibrahimović
+G. Jesus
+M. Reus
+M. Diaby
+J. Maddison
+J. Bellingham
+H. Lozano
+T. Partey
+F. Mendy
+R. Varane
+Gabriel
+N. Mazraoui
+M. Neuer
+7,7
+6,8
+7,4
+6,6
+7,6
+5,8
+7,8
+6,0
+7,3
+7,9
+6,7
+6,9
+7,1
+6,6

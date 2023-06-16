@@ -1,0 +1,48 @@
+PE
+PE
+ATA
+ATA
+PD
+MCE
+MCE
+MCD
+VOL
+VOL
+LE
+ZGE
+ZGE
+ZGD
+LD
+GOL
+H. Ziyech
+J. Grealish
+D. Nuñez
+D. Vlahović
+D. Berardi
+J. Ward-Prowse
+L. Pellegrini
+L. Paqueta
+K. Havertz
+L. Goretzka
+Angelino
+R. Le Normand
+F. Tomori
+J. Matip
+M. Cash
+Ederson
+6,9
+8,7
+8,2
+8,2
+7,7
+6,0
+5,8
+6,3
+7,1
+6,2
+7,9
+6,0
+6,3
+8,0
+7,4
+6,7

@@ -1,0 +1,45 @@
+ATA
+MEI
+ME
+ME
+MCE
+MCE
+MCD
+MD
+MD
+LE
+ZGE
+ZGD
+ZGD
+LD
+GOL
+E. Haaland
+J. Brandt
+S. Lobotka
+F. Kostic
+C. Eriksen
+M. Verratti
+M. Brozović
+A. Danjuma
+J. Bowen
+A. Davies
+D. Alaba
+R. Araujo
+A. Rudiger
+L. Vazquez
+T. Courtois
+8,0
+6,2
+6,0
+6,8
+5,7
+5,7
+6,1
+6,0
+5,9
+6,9
+7,4
+6,0
+5,6
+6,9
+7,1

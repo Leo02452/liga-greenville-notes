@@ -1,0 +1,45 @@
+PE
+ATA
+PD
+MEI
+MED
+MCE
+MCD
+VLE
+LE
+LE
+ZGE
+ZGD
+LD
+LD
+GOL
+A. Gomez
+C. Immobile
+S. Gnabry
+G. Raspadori
+D. Mertens
+S. Tonali
+F. Kessie
+Thiago
+Y. Berchiche
+J. Cuadrado
+K. Koulibaly
+Pepe
+J. Giménez
+J. Frimpong
+W. Szczesny
+6,6
+6,2
+6,9
+5,8
+7,0
+6,0
+7,9
+6,8
+6,0
+7,4
+6,6
+7,4
+6,0
+6,8
+7,5

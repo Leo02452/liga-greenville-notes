@@ -1,0 +1,39 @@
+PE
+PE
+PD
+SA
+MCE
+MCD
+MCD
+VOL
+LE
+ZGE
+ZGD
+LD
+GOL
+A. Saint-Maximin
+F. Chiesa
+R. Mahrez
+G. Ramos
+I. Gundogan
+P. Dybala
+M. Merino
+D. Rice
+A. Grimaldo
+L. Martínez
+W. Saliba
+K. Trippier
+E. Martinez
+7,4
+6,8
+6,3
+5,7
+6,8
+7,5
+6,2
+6,3
+7,9
+6,9
+7,3
+6,8
+6,0

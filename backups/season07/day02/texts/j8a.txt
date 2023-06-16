@@ -1,0 +1,39 @@
+ATE
+ATD
+ME
+ME
+MCE
+MCD
+MCD
+MD
+VOL
+ZGE
+ZAG
+ZGD
+GOL
+G. Ramos
+T. Werner
+A. Saint-Maximin
+F. Chiesa
+I. Gundogan
+P. Dybala
+S. Busquets
+R. Mahrez
+D. Rice
+L. Martinez
+W. Saliba
+Kim Min Jae
+E. Martinez
+5,7
+8,4
+5,8
+5,5
+6,4
+7,1
+6,8
+6,2
+6,7
+6,9
+6,7
+6,9
+6,9

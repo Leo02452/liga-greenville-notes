@@ -1,0 +1,36 @@
+PE
+ATA
+ATA
+PD
+MEI
+MCE
+MCD
+LE
+ZGE
+ZGD
+LD
+GOL
+K. Coman
+Richarlison
+C. Ronaldo
+O. Dembélé
+C. Nkunku
+E. Fernandez
+J. Kimmich
+R. Guerreiro
+A. Romagnoli
+M. Akanji
+R. James
+G. Donnarumma
+7,6
+6,3
+8,2
+7,3
+6,8
+6,6
+7,1
+7,3
+6,2
+6,2
+6,5
+5,9

@@ -1,0 +1,48 @@
+ATA
+MAE
+MAE
+MAD
+MAD
+MCE
+MCE
+MC
+MCD
+MCD
+LE
+ZGE
+ZGE
+ZGD
+LD
+GOL
+W. Ben Yedder
+I. Williams
+M. Oyarzabal
+J. Doku
+W. Zaha
+M. Nunes
+S. Canales
+Y. Tielemans
+E. Can
+P. Pogba
+M. Acuña
+B. White
+S. Savić
+M. Ginter
+A. Hakimi
+K. Navas
+8,7
+7,6
+7,2
+5,7
+6,9
+5,9
+6,8
+6,7
+5,9
+6,0
+8,0
+6,4
+6,1
+7,1
+7,5
+5,9

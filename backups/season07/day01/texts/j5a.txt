@@ -1,0 +1,33 @@
+PE
+ATA
+PD
+MC
+VLE
+VLD
+LE
+ZGE
+ZGD
+LD
+GOL
+C. Gakpo
+M. Depay
+P. Foden
+F. de Jong
+Casemiro
+Rodri
+A. Moreno
+S. Botman
+J. Stones
+D. Carvajal
+J. Oblak
+8,1
+7,2
+7,9
+7,2
+6,0
+6,2
+7,4
+5,8
+6,7
+7,4
+5,5

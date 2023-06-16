@@ -1,0 +1,39 @@
+PE
+ATA
+PD
+MCE
+MCE
+MCD
+VOL
+LE
+ZGE
+ZGE
+ZGD
+LD
+GOL
+Neymar Jr
+R. Lewandowski
+L. Messi
+N. Barella
+H. Son
+M. Llorente
+N. Kanté
+Mario Rui
+M. de Ligt
+R. Dias
+A. Bastoni
+J. Cancelo
+M. ter Stegen
+7,2
+7,1
+8,1
+6,7
+6,1
+5,5
+6,6
+6,6
+6,1
+5.8
+5,7
+6,8
+6,1

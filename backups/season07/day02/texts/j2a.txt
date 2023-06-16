@@ -1,0 +1,42 @@
+PE
+ATA
+ATA
+PD
+PD
+MEI
+MEI
+MCE
+MCD
+LE
+ZGE
+ZGD
+LD
+GOL
+M. Diaby
+P. Schick
+Z. Ibrahimovic
+H. Lozano
+G. Jesus
+M. Reus
+J. Bellingham
+T. Partey
+M. Sabitzer
+F. Mendy
+R. Varane
+Gabriel
+N. Mazraoui
+M. Neuer
+7,5
+6,3
+7,4
+5,8
+7,1
+6,3
+8,0
+7,1
+6,2
+7,2
+7,7
+6,3
+6,6
+6,6
