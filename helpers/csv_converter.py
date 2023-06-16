@@ -32,3 +32,23 @@ def text_to_csv(
             np_line += 1
     infile.close()
     outfile.close()
+
+def table_to_csv(
+        input_file,
+        output_file,
+        game_info,
+    ):
+    with open(input_file, 'r') as infile, open(output_file, 'a', newline='') as outfile:
+        writer = csv.writer(outfile)
+        reader = csv.reader(infile)
+        for pos, name, np in reader:
+            writer.writerow([
+                pos,
+                name,
+                np,
+                game_info['time'],
+                game_info['adversario'],
+                game_info['competicao']
+            ])
+    infile.close()
+    outfile.close()
