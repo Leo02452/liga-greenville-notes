@@ -84,6 +84,10 @@ def remove_empty_lines(file_path):
 
     shutil.move('temp_file.txt', file_path)
 
+def convert_numbers(string_number):
+    dot_number = string_number.replace(',', '.')
+    return float(dot_number)
+
 def normalize_notes(file_path):
     with open(file_path, 'r') as input_file, open('temp_file.txt', 'w') as temp_file:
         lines = input_file.readlines()
