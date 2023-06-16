@@ -1,0 +1,37 @@
+day02
+  ié: ok
+    modrié -> modric 2x
+    s.
+    inkovié-Savié
+    Z. Ibrahimovié
+    M. Arnautovié
+  position: ok
+    Z6D
+    Lp
+    76D 3x
+    VoL
+    MEL 3x
+    zG6D 3x
+  l.: ok
+    l. Sarr
+    |. Gundogan
+  fi:
+    acufia
+    nufiez
+  outros:
+    T. Souéek
+    6. Jesus 2x
+    S. Milinkovié-Savié
+    0. Dembélé 2x
+    viahovic
+    L. Paqueté 2x
+
+  sem nome no csv
+    Vinícius
+    de Gea
+
+FICAR DE OLHO
+Paqueté
+A,
+1. Guindogan
+6. Jesus
