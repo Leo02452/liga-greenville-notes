@@ -60,6 +60,20 @@ def abbreviate_first_name(player):
     else:
         return " ".join(fullname)
 
+def replace_players(players_list, txt_player):
+    for player in players_list:
+        base_player = remove_accents_and_letter_through(player)
+        abbreviated_base_player = abbreviate_first_name(base_player)
+        txt_player_without_accent = remove_accents_and_letter_through(txt_player)
+        if (
+            (txt_player_without_accent == abbreviated_base_player or
+            abbreviated_base_player in txt_player_without_accent) and
+            txt_player_without_accent != player
+        ):
+            return player
+        elif txt_player_without_accent == player:
+            return player
+
 def remove_empty_lines(file_path):
     with open(file_path, 'r') as input_file, open('temp_file.txt', 'w') as temp_file:
         lines = input_file.readlines()
