@@ -1,4 +1,4 @@
-from refine_data import remove_empty_lines, string_replacement, normalize_notes
+from helpers.refine_data import remove_empty_lines, string_replacement, normalize_notes
 import pytesseract
 pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
 
