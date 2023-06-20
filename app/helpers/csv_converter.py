@@ -1,6 +1,6 @@
 import csv
 from helpers.refine_data import replace_players, convert_numbers
-from update_active_players import active_players_list
+from app.update_active_players import active_players_list
 
 def text_to_csv(
         input_file,
