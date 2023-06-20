@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Liga Greenville</title>
+</head>
+<body>
+    <h1>Extração de dados</h1>
+    <span>Suba fotos e preencha os dados do dia para extrair os dados das tabelas</span>
+    <form id="uploadForm" method="POST" enctype="multipart/form-data">
+        <input type="file" name="home_image_1" accept="image/*" />
+        <input type="file" name="home_image_2" accept="image/*" />
+        <input type="text" name="season" />
+        <input type="text" name="day" />
+        <input type="number" name="number_of_games" /> 
+        <input type="submit" value="Upload" />
+    </form>
+    <script>
+        const uploadForm = document.getElementById("uploadForm");
+
+        uploadForm.addEventListener("submit", function(event) {
+            event.preventDefault();
+
+            const season = document.querySelector('input[name="season"]').value;
+            const day = document.querySelector('input[name="day"]').value;
+            const numberOfGames = document.querySelector('input[name="number_of_games"]').value;
+
+            uploadForm.action = `/notes-registration/${season}/${day}/${numberOfGames}`;
+
+            uploadForm.submit();
+        });
+    </script>
+</body>
+</html>
