@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Combined Images</title>
+</head>
+<body>
+    <h1>Combined Images</h1>
+    {% for image_path in image_paths %}
+      <img src="{{ url_for('static', filename=image_path) }}" alt="imagens das notas">
+    {% endfor %}
+</body>
+</html>
