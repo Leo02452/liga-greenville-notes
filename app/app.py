@@ -30,3 +30,21 @@ def index():
         'index.html',
       )
 
+@app.route('/notes-registration/<season>/<day>/<number_of_games>')
+def register_notes(
+    season, day, number_of_games
+    ):
+
+    image_paths = []
+    for index in range(1, (int(number_of_games) + 1)):
+        home_image = f'{season}/{day}/images/j{index}h.png'
+        away_image = f'{season}/{day}/images/j{index}a.png'
+        image_paths.append(home_image)
+        image_paths.append(away_image)
+    return render_template(
+        'notes.html',
+        image_paths=image_paths,
+        )
+
+if __name__ == '__main__':
+    app.run()
