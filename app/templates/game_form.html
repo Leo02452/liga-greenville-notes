@@ -1,0 +1,34 @@
+<style>
+  .game-form {
+    margin: 0px;
+    display: flex;
+    flex-direction: column;
+    width: 256px;
+  }
+
+  #competition {
+    text-align: center;
+  }
+</style>
+<form class="game-form">
+  <input type="hidden" name="photo_id" value="{{ photo_path }}">
+  <label for="home_team">Mandante</label>
+  <select name="home_team" id="home_team" class="game-input">
+    {% for team in template_teams %}
+      <option value="{{ team }}">{{ team }}</option>
+    {% endfor %}
+  </select>
+  <label for="away_team">Visitante</label>
+  <select name="away_team" id="away_team" class="game-input">
+    {% for team in template_teams %}
+      <option value="{{ team }}">{{ team }}</option>
+    {% endfor %}
+  </select>
+  <label for="competition">Competição:</label>
+  <select name="competition" id="competition" class="game-input">
+    {% for competition in template_competitions %}
+      <option value="{{ competition }}">{{ competition }}</option>
+    {% endfor %}
+  </select>
+  <input type="submit" value="Salvar" />
+</form>
