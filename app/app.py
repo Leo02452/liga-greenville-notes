@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, redirect
 from extract_notes_to_text import extract_notes
+from update_active_players import teams, competitions
 
 app = Flask(
     __name__,
@@ -44,6 +45,8 @@ def register_notes(
     return render_template(
         'notes.html',
         image_paths=image_paths,
+        teams=teams,
+        competitions=competitions,
         )
 
 if __name__ == '__main__':
