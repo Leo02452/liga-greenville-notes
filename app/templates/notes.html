@@ -4,9 +4,18 @@
     <title>Combined Images</title>
 </head>
 <body>
-    <h1>Combined Images</h1>
-    {% for image_path in image_paths %}
-      <img src="{{ url_for('static', filename=image_path) }}" alt="imagens das notas">
-    {% endfor %}
+  {% for i in range(0, image_paths|length, 2) %}
+    <div class="game-container">
+      <img src="{{ url_for('static', filename=image_paths[i]) }}" alt="imagens das notas" class="game-image">
+      {% set template_teams = teams %}
+      {% set template_competitions = competitions %}
+      {% include 'game_form.html' %}
+
+      {% if i+1 < image_paths|length %}
+        <img src="{{ url_for('static', filename=image_paths[i+1]) }}" alt="imagens das notas" class="game-image">
+      {% endif %}
+    </div>
+  {% endfor %}
+
 </body>
 </html>
