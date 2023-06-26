@@ -2,6 +2,34 @@
 <html>
 <head>
     <title>Combined Images</title>
+    <style>
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+
+      .game-container {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        justify-content: space-around;
+      }
+
+      .game-image {
+        margin: 0px;
+        display: flex;
+        flex-direction: column;
+        width: 256px;
+      }
+    </style>
 </head>
 <body>
   <header>
@@ -20,6 +48,5 @@
       {% endif %}
     </div>
   {% endfor %}
-
 </body>
 </html>
