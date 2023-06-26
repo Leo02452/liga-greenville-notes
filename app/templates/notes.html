@@ -4,6 +4,10 @@
     <title>Combined Images</title>
 </head>
 <body>
+  <header>
+    <h1>Registrar jogos</h1>
+    <span>Cheque os dados, corrija se necessário e salve cada jogo individualmente</span>
+  </header>
   {% for i in range(0, image_paths|length, 2) %}
     <div class="game-container">
       <img src="{{ url_for('static', filename=image_paths[i]) }}" alt="imagens das notas" class="game-image">
