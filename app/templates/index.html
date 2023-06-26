@@ -2,17 +2,93 @@
 <html>
 <head>
     <title>Liga Greenville</title>
+    <style>
+        header {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: 12px;
+        }
+
+        .image-upload-container {
+            display: flex;
+            font-size: 20px;
+        }
+
+        .image-upload-wrapper {
+            display: flex;
+            flex-direction: column;
+            margin-right: 16px;
+            gap: 4px;
+        }
+
+        .day-info-container {
+            display: flex;
+            flex-direction: column;
+            width: 256px;
+            margin-top: 32px;
+        }
+
+        .day-info-wrapper {
+            display: flex;
+            flex-direction: column;
+            gap: 4px;
+            margin-bottom: 20px;
+            font-size: 24px;
+        }
+
+        .day-info-input {
+            padding: 4px;
+            font-size: 16px;
+            border-radius: 4px;
+        }
+
+        .submit-button {
+            font-size: 28px;
+            padding: 8px;
+            border-radius: 4px;
+            background-color: green;
+            color: white;
+            font-weight: 600;
+        }
+    </style>
 </head>
 <body>
-    <h1>Extração de dados</h1>
-    <span>Suba fotos e preencha os dados do dia para extrair os dados das tabelas</span>
+    <header>
+        <h1>Extração de dados</h1>
+        <span>Suba fotos e preencha os dados do dia para extrair os dados das tabelas</span>
+    </header>
     <form id="uploadForm" method="POST" enctype="multipart/form-data">
-        <input type="file" name="home_image_1" accept="image/*" />
-        <input type="file" name="home_image_2" accept="image/*" />
-        <input type="text" name="season" />
-        <input type="text" name="day" />
-        <input type="number" name="number_of_games" /> 
-        <input type="submit" value="Upload" />
+        <div class="image-upload-container">
+            <div class="image-upload-wrapper">
+                <label for="home_image_1">Foto 1 do mandante:</label>
+                <input type="file" name="home_image_1" id="home_image_1" accept="image/*" />
+                <label for="home_image_2">Foto 2 do mandante:</label>
+                <input type="file" name="home_image_2" id="home_image_2" accept="image/*" />
+            </div>
+            <div class="image-upload-wrapper">
+                <label for="away_image_1">Foto 1 do visitante:</label>
+                <input type="file" name="away_image_1" id="away_image_1" accept="image/*" />
+                <label for="away_image_2">Foto 2 do visitante:</label>
+                <input type="file" name="away_image_2" id="away_image_2" accept="image/*" />
+            </div>
+        </div>
+        <div class="day-info-container">
+            <div class="day-info-wrapper">
+                <label for="season">Temporada</label>
+                <input type="text" name="season" id="season" placeholder="season07" class="day-info-input" />
+            </div>
+            <div class="day-info-wrapper">
+                <label for="day">Dia</label>
+                <input type="text" name="day" id="day" placeholder="day01" class="day-info-input" />
+            </div>
+            <div class="day-info-wrapper">
+                <label for="number_of_games">Numero de jogos</label>
+                <input type="number" name="number_of_games" id="number_of_games" placeholder="5" class="day-info-input" />
+            </div>
+            <input type="submit" value="Upload" class="submit-button"/>
+        </div>
     </form>
     <script>
         const uploadForm = document.getElementById("uploadForm");
