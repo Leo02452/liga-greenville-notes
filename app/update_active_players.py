@@ -12,6 +12,18 @@ positions_list = [
     'ATA', 'ATD', 'ATE'
 ]
 
+teams = [
+    'Boca Juniors', 'Estudiantes',
+    'Independiente', 'Racing',
+    'River Plate', 'Rosario Central',
+    'San Lorenzo', 'Velez Sarsfield',
+    'Argentinos Jrs', 'Arsenal de Sarandi',
+    'Defensa Y Justicia', 'Huracan',
+    'Lanus', 'Newells Old Boys',
+    'Talleres', 'Tigre'
+]
+
+competitions = ['A', 'B', 'C', 'SC']
 
 def update_active_players():
     with open('active_players.csv', 'r') as file:
