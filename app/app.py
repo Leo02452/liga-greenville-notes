@@ -1,7 +1,8 @@
 from flask import Flask, render_template, request, redirect
-from extract_notes_to_text import extract_notes
+from app.extract_notes_to_text import extract_notes
 from update_active_players import teams, competitions
 from werkzeug.utils import secure_filename
+from app.helpers.extraction import extract_text_to_list
 import os
 
 app = Flask(
@@ -36,11 +37,20 @@ def extract_notes(
     ):
 
     image_paths = []
+    extracted_data = []
     for index in range(1, (int(number_of_games) + 1)):
         home_image = f'{season}/{day}/images/j{index}h.png'
         away_image = f'{season}/{day}/images/j{index}a.png'
         image_paths.append(home_image)
         image_paths.append(away_image)
+    
+        home_file_path = f'app/static/{season}/{day}/texts/j{index}h.txt'
+        away_file_path = f'app/static/{season}/{day}/texts/j{index}a.txt'
+        home_file_data = extract_text_to_list(home_file_path)
+        away_file_data = extract_text_to_list(away_file_path)
+        extracted_data.append(home_file_data)
+        extracted_data.append(away_file_data)
+
     return render_template(
         'notes.html',
         image_paths=image_paths,
