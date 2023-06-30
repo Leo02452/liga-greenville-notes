@@ -73,3 +73,16 @@ def normalize_player_name(player_name):
     player_name = re.sub(r'([a-zA-Z])\.([a-zA-Z])', r'\1. \2', player_name)
     player_name = replace_players(active_players_list, player_name)
     return player_name
+
+def normalize_notes(note):
+    note = note.replace(')', '')
+    
+    if re.match(r'^(?!^\d{3}$)(\d{1,2})[.,]?\d{1}$', note):
+        pattern = r'^(\d{1,2})[.,]?(\d{1})$'
+        replacement = r'\1.\2'
+        normalized_note = re.sub(pattern, replacement, note)
+        return normalized_note  # Print the matched portion
+    elif re.match(r'^(?!^\d{3}$)[a-zA-Z0-9.,]+$', note) or re.match(r'^(?!^\d{3}$)[a-zA-Z.,]+$', note):
+        return "7."
+    else:
+        return ""
