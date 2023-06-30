@@ -1,4 +1,5 @@
-import unicodedata, shutil
+import unicodedata, shutil, re
+from app.update_active_players import active_players_list
 
 def remove_accents_and_letter_through(player):
     normalized_player = unicodedata.normalize('NFD', player)
@@ -43,3 +44,32 @@ def normalize_position(position):
     uppercase_position = position.upper()
     return uppercase_position
     
+def normalize_player_name(player_name):
+    replacements = {
+        'ii': 'u',
+        '0.': 'O.',
+        'fi': 'n',
+        'ié': 'ić',
+        'T. AlexanderAr...': 'T. Alexander-Arnold',
+        'A. Zambo Anguis...': 'A. Zambo Anguissa',
+        'D. Nujiez': 'D. Nuñez',
+        'R. Ledo': 'R. Leão',
+        '6. Kobel': 'G. Kobel',
+        'Kessić': 'Kessié',
+        'Taglianco': 'Tagliafico'
+    }
+
+    grouped_replacements = {
+        '': ['@', '*', '=', '>', '»', '+', '~', '®', '©', '-', '_', '—', '&', '%'],
+        'I.': ['l.', '|.']
+    }
+
+    for replacement_key, replacement_values in grouped_replacements.items():
+        for key in replacement_values:
+            player_name = player_name.replace(key, replacement_key)
+    for key, value in replacements.items():
+        player_name = player_name.replace(key, value)
+    player_name = player_name.strip()
+    player_name = re.sub(r'([a-zA-Z])\.([a-zA-Z])', r'\1. \2', player_name)
+    player_name = replace_players(active_players_list, player_name)
+    return player_name
