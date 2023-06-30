@@ -1,5 +1,5 @@
 from app.helpers.image import combine_images, invert_colors
-from app.helpers.image_to_text import extract_image_to_text
+from app.helpers.extraction import extract_image_to_text
 import app.helpers.normalize_data as normalize_data
 import os
 
