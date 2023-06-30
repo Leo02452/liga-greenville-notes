@@ -1,6 +1,6 @@
 from flask import Flask, render_template, request, redirect
 from app.extract_notes_to_text import extract_notes
-from update_active_players import teams, competitions
+from app.update_active_players import teams, competitions, active_players_list, positions_list
 from werkzeug.utils import secure_filename
 from app.helpers.extraction import extract_text_to_list
 import os
@@ -56,6 +56,9 @@ def extract_notes(
         image_paths=image_paths,
         teams=teams,
         competitions=competitions,
+        active_players_list=active_players_list,
+        extracted_data=extracted_data,
+        positions_list=positions_list,
         )
 
 if __name__ == '__main__':
