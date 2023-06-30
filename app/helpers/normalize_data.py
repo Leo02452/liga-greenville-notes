@@ -102,3 +102,16 @@ def process_line(line):
         return position, player_name, note
     else:
         return None, None, None
+
+def normalize(file_path):
+    remove_empty_lines(file_path)
+    temp_file_path = 'temp_file.txt'
+    with open(file_path, 'r') as input_file, open(temp_file_path, 'w') as temp_file:
+        lines = input_file.readlines()
+        for line in lines:
+            position, player_name, note = process_line(line)
+            position = normalize_position(position)
+            player_name = normalize_player_name(player_name)
+            note = normalize_notes(note)
+            temp_file.write(f'{position},{player_name},{note}\n')
+    shutil.move(temp_file_path, file_path)
