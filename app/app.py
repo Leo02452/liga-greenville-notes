@@ -30,8 +30,8 @@ def index():
 
     return render_template('index.html')
 
-@app.route('/notes-registration/<season>/<day>/<number_of_games>')
-def register_notes(
+@app.route('/notes-registration/<season>/<day>/<number_of_games>', methods=['GET', 'POST'])
+def extract_notes(
     season, day, number_of_games
     ):
 
