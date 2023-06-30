@@ -1,6 +1,8 @@
 from flask import Flask, render_template, request, redirect
 from extract_notes_to_text import extract_notes
 from update_active_players import teams, competitions
+from werkzeug.utils import secure_filename
+import os
 
 app = Flask(
     __name__,
@@ -8,28 +10,25 @@ app = Flask(
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    if (
-        request.method == 'POST' and
-        'home_image_1' and
-        'home_image_2'in request.files and
-        'season' and
-        'day' and
-        'number_of_games' in request.form
-    ):
-        image1 = request.files['home_image_1']
-        image2 = request.files['home_image_2']
-        season = request.form['season']
-        day = request.form['day']
-        number_of_games = request.form['number_of_games']
-        
-        image1.save(f'backups/{season}/{day}/images/originals/' + image1.filename)
-        image2.save(f'backups/{season}/{day}/images/originals/' + image2.filename)
-        extract_notes(season, day, int(number_of_games))
-        return redirect(f'/notes-registration/{season}/{day}/{number_of_games}')
+    if request.method == 'POST':
+        if all(field in request.form for field in ['season', 'day', 'number_of_games']):
+            season = request.form['season']
+            day = request.form['day']
+            number_of_games = request.form['number_of_games']
 
-    return render_template(
-        'index.html',
-      )
+            image_dir = os.path.join(app.root_path, 'static', season, day, 'images', 'originals')
+            os.makedirs(image_dir, exist_ok=True)
+
+            for key, file in request.files.items():
+                if key.startswith('home_image_') or key.startswith('away_image_'):
+                    filename = secure_filename(file.filename)
+                    file_path = os.path.join(image_dir, filename)
+                    file.save(file_path)
+
+            extract_notes(season, day, int(number_of_games))
+            return redirect(f'/notes-registration/{season}/{day}/{number_of_games}')
+
+    return render_template('index.html')
 
 @app.route('/notes-registration/<season>/<day>/<number_of_games>')
 def register_notes(
