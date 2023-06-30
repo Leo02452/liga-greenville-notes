@@ -1,0 +1,13 @@
+PE,Ferran Torres,8.7
+PE,Ansu Fati,7.
+ATA,E. Haaland,8.9
+PD,Antony,6.3
+MEE,None,7.
+MC,J. Brandt,6.9
+MCD,C. Eriksen,5.6
+MCD,M. Verratti,6.6
+LE,A. Davies,7.
+ZGE,D. Alaba,6.9
+ZGD,A. Rüdiger,7.
+LD,R. Araujo,7.6
+GOL,T. Courtois,7.

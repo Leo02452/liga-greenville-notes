@@ -1,0 +1,12 @@
+PE,Richarlison,6.0
+PE,K. Coman,6.9
+ATA,Cristiano Ronaldo,7.
+PD,O. Dembélé,8.0
+MEI,C. Nkunku,7.4
+MCE,David Silva,6.1
+MCD,J. Kimmich,6.7
+LE,R. Guerreiro,6.7
+ZGE,A. Romagnoli,7.0
+ZGD,M. Akanji,6.7
+LD,R. James,7.8
+GOL,G. Donnarumma,6.8

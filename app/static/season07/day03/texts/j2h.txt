@@ -1,0 +1,11 @@
+ATA,E. Haaland,7.6
+MEI,J. Brandt,6.9
+ME,Ferran Torres,6.8
+MCE,M. Verratti,6.7
+MCD,M. Brozović,6.8
+MD,Ansu Fati,6.1
+LE,A. Davies,6.3
+ZGE,D. Alaba,7.
+ZGD,A. Rüdiger,6.5
+LD,R. Araujo,6.3
+GOL,T. Courtois,5.5

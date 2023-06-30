@@ -1,0 +1,16 @@
+ATA,A. Isak,6.2
+ATA,T. Abraham,7.
+MEE,Gelson Martins,6.0
+MEI,N. Fekir,5.4
+MEI,Y. Carrasco,6.3
+MEI,F. Wirtz,5.7
+MED,D. Kulusevski,6.0
+MED,N. González,5.9
+VLE,L. Torreira,6.5
+VLD,D. Raum,6.0
+VLD,E. Camavinga,6.9
+LE,L. Spinazzola,6.5
+ZGE,Gonçalo Inácio,7.0
+ZGD,P. Kimpembe,7.0
+LD,R. Baku,6.8
+GOL,P. Gulácsi,6.8

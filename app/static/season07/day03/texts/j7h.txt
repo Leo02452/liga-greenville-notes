@@ -1,0 +1,13 @@
+PE,Roberto Firmino,6.4
+PE,L. Díaz,6.9
+ATA,R. Lukaku,7.
+PD,Á. Di María,7.2
+MEI,T. Kroos,7.5
+MCE,Coutinho,5.8
+MCE,J. Henderson,
+MCD,Jorginho,7.
+LE,Jordi Alba,6.9
+ZGE,N. Süle,6.6
+ZGD,Bremer,7.4
+LD,T. Alexander-Arnold,8.0
+GOL,K. Trapp,6.7

@@ -1,0 +1,14 @@
+PE,L. Díaz,7.
+ATA,R. Lukaku,9.0
+PD,Á. Di María,7.2
+MEI,Coutinho,6.2
+MEI,Joelinton,6.1
+MCE,None,6.0
+MCE,J. Henderson,8.3
+MCD,None,6.0
+MCD,Jorginho,6.8
+LE,Jordi Alba,7.
+ZGE,N. Süle,7.4
+ZGD,Bremer,7.
+LD,Danilo,6.9
+GOL,J. Pickford,6.6

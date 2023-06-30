@@ -1,0 +1,13 @@
+ATA,A. Isak,8.0
+ATA,T. Abraham,
+MEE,Y. Carrasco,6.3
+MEI,N. Fekir,
+MEI,F. Wirtz,8.0
+MED,D. Kulusevski,5.9
+MED,N. González,7.7
+VLE,L. Torreira,6.6
+VLD,E. Camavinga,7.
+LE,L. Spinazzola,7.3
+ZGE,Gonçalo Inácio,7.
+ZGD,P. Kimpembe,6.8
+LD,R. Baku,7.4

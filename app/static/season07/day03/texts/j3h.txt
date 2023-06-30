@@ -1,0 +1,14 @@
+ATE,P. Aubameyang,7.
+ATE,S. Gnabry,6.6
+ATD,C. Immobile,8.4
+MEE,A. Gómez,8.0
+MED,I. Sarr,6.0
+MED,D. Mertens,6.7
+VLE,S. Tonali,6.1
+VLE,Thiago,7.4
+VLD,F. Kessié,7.
+LE,J. Frimpong,7.
+ZGE,K. Koulibaly,7.
+ZGD,Pepe,6.5
+LD,J. Cuadrado,8.5
+GOL,W. Szczęsny,7.0
