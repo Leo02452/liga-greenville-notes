@@ -1,0 +1,35 @@
+<style>
+  .player_line_form {
+    display: flex;
+  }
+
+  .player-name-input {
+    width: 120px;
+  }
+  .position-input, .note-input {
+    width: 50px;
+    text-align: center;
+  }
+</style>
+<div class="notes-form">
+  {% for player_data in team %}
+    <div class="form-group">
+      <select name="position{{ loop.index }}" class="position-input">
+        <option value="" {% if player_data.position == '' %}selected{% endif %}>-- --</option>
+        {% for position in template_positions_list %}
+          <option value="{{ position }}" {% if position == player_data.position %}selected{% endif %}>{{ position }}</option>
+        {% endfor %}
+      </select>
+      <select name="position{{ loop.index }}" class="player-name-input">
+        <option value="" {% if player_data.player_ame == '' %}selected{% endif %}>-- --</option>
+        {% for player_name in template_active_players_list %}
+          <option value="{{ player_name }}" {% if player_name == player_data.player_name %}selected{% endif %}>{{ player_name }}</option>
+        {% endfor %}
+      </select>
+      <input type="text" name="note{{ loop.index }}" value="{{ player_data.note }}" class="note-input">
+    </div>
+  {% endfor %}
+</div>
+
+
+
