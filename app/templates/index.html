@@ -3,6 +3,12 @@
 <head>
     <title>Liga Greenville</title>
     <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
         header {
         display: flex;
         flex-direction: column;
@@ -11,30 +17,67 @@
         margin: 12px;
         }
 
-        .image-upload-container {
+        h3 {
+            margin: 8px 0;
+            text-align: center;
+        }
+
+        #uploadForm {
             display: flex;
+            flex-direction: column;
+        }
+        
+        #image-upload-container {
+            display: flex;
+            justify-content: space-evenly;
+            flex-wrap: wrap;
+        }
+
+        .game-images-container {
+            display: flex;
+            flex-direction: column;
             font-size: 20px;
+            margin: 12px 0;
+            border: 1px solid black;
+            border-radius: 8px;
+            width: 45%;
         }
 
         .image-upload-wrapper {
             display: flex;
             flex-direction: column;
-            margin-right: 16px;
             gap: 4px;
+            margin-bottom: 12px;
+            border: 1px solid black;
+            width: 100%;
+            padding: 8px;
+            border-radius: 8px;
+        }
+
+        .add-game-button {
+            border-radius: 16px;
+            padding: 8px;
+            background-color: #1065e9;
+            width: 30%;
+            align-self: center;
+            color: white;
+            font-weight: 700;
         }
 
         .day-info-container {
             display: flex;
             flex-direction: column;
+            justify-content: center;
             width: 256px;
-            margin-top: 32px;
+            margin: 32px 0;
+            align-self: center;
         }
 
         .day-info-wrapper {
             display: flex;
             flex-direction: column;
             gap: 4px;
-            margin-bottom: 20px;
+            margin-bottom: 12px;
             font-size: 24px;
         }
 
@@ -59,21 +102,25 @@
         <h1>Extração de dados</h1>
         <span>Suba fotos e preencha os dados do dia para extrair os dados das tabelas</span>
     </header>
-    <form id="uploadForm" method="POST" enctype="multipart/form-data">
-        <div class="image-upload-container">
-            <div class="image-upload-wrapper">
-                <label for="home_image_1">Foto 1 do mandante:</label>
-                <input type="file" name="home_image_1" id="home_image_1" accept="image/*" />
-                <label for="home_image_2">Foto 2 do mandante:</label>
-                <input type="file" name="home_image_2" id="home_image_2" accept="image/*" />
-            </div>
-            <div class="image-upload-wrapper">
-                <label for="away_image_1">Foto 1 do visitante:</label>
-                <input type="file" name="away_image_1" id="away_image_1" accept="image/*" />
-                <label for="away_image_2">Foto 2 do visitante:</label>
-                <input type="file" name="away_image_2" id="away_image_2" accept="image/*" />
+    <form action="/" id="uploadForm" method="POST" enctype="multipart/form-data">
+        <div id="image-upload-container">
+            <div class="game-images-container">
+                <h3>Jogo 1</h3>
+                <div class="image-upload-wrapper">
+                    <label for="home_image_1_1">Foto 1 do mandante:</label>
+                    <input type="file" name="home_image_1_1" id="home_image_1_1" accept="image/*" />
+                    <label for="home_image_2_1">Foto 2 do mandante:</label>
+                    <input type="file" name="home_image_2_1" id="home_image_2_1" accept="image/*" />
+                </div>
+                <div class="image-upload-wrapper">
+                    <label for="away_image_1_1">Foto 1 do visitante:</label>
+                    <input type="file" name="away_image_1_1" id="away_image_1_1" accept="image/*" />
+                    <label for="away_image_2_1">Foto 2 do visitante:</label>
+                    <input type="file" name="away_image_2_1" id="away_image_2_1" accept="image/*" />
+                </div>
             </div>
         </div>
+        <button type="button" onclick="addImageContainer()" class="add-game-button">Adicionar mais um</button>
         <div class="day-info-container">
             <div class="day-info-wrapper">
                 <label for="season">Temporada</label>
@@ -91,19 +138,35 @@
         </div>
     </form>
     <script>
-        const uploadForm = document.getElementById("uploadForm");
+        let counter = 2;
 
-        uploadForm.addEventListener("submit", function(event) {
-            event.preventDefault();
+        function addImageContainer() {
+            const imageContainer = document.getElementById("image-upload-container");
 
-            const season = document.querySelector('input[name="season"]').value;
-            const day = document.querySelector('input[name="day"]').value;
-            const numberOfGames = document.querySelector('input[name="number_of_games"]').value;
+            const newContainer = document.createElement("div");
+            newContainer.className = "game-images-container";
 
-            uploadForm.action = `/notes-registration/${season}/${day}/${numberOfGames}`;
+            const containerHtml = `
+                <h3>Jogo ${counter}</h3>
+                <div class="image-upload-wrapper">
+                    <label for="home_image_1_${counter}">Foto 1 do mandante:</label>
+                    <input type="file" name="home_image_1_${counter}" id="home_image_1_${counter}" accept="image/*" />
+                    <label for="home_image_2_${counter}">Foto 2 do mandante:</label>
+                    <input type="file" name="home_image_2_${counter}" id="home_image_2_${counter}" accept="image/*" />
+                </div>
+                <div class="image-upload-wrapper">
+                    <label for="away_image_1_${counter}">Foto 1 do visitante:</label>
+                    <input type="file" name="away_image_1_${counter}" id="away_image_1_${counter}" accept="image/*" />
+                    <label for="away_image_2_${counter}">Foto 2 do visitante:</label>
+                    <input type="file" name="away_image_2_${counter}" id="away_image_2_${counter}" accept="image/*" />
+                </div>
+            `;
 
-            uploadForm.submit();
-        });
+            newContainer.innerHTML = containerHtml;
+            imageContainer.appendChild(newContainer);
+
+            counter++;
+        }
     </script>
 </body>
 </html>
