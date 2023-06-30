@@ -39,3 +39,7 @@ def remove_empty_lines(file_path):
 
     shutil.move('temp_file.txt', file_path)
 
+def normalize_position(position):
+    uppercase_position = position.upper()
+    return uppercase_position
+    
