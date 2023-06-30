@@ -86,3 +86,19 @@ def normalize_notes(note):
         return "7."
     else:
         return ""
+
+def process_line(line):
+    line = line.strip()
+    pattern = r'\s+'
+    components = re.split(pattern, line)
+
+    if len(components) >= 3:
+        position = components[0]
+        player_name = ' '.join(components[1:-1])
+        note = components[-1]
+        player_name_parts = re.split(r'\s|,', player_name)
+        player_name_parts = [part for part in player_name_parts if part]
+        player_name = ' '.join(player_name_parts)
+        return position, player_name, note
+    else:
+        return None, None, None
