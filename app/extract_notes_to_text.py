@@ -1,5 +1,6 @@
 from app.helpers.image import combine_images, invert_colors
 from app.helpers.image_to_text import extract_image_to_text
+import app.helpers.normalize_data as normalize_data
 import os
 
 def extract_notes(season, day_of_league, number_of_games):
@@ -27,3 +28,5 @@ def extract_notes(season, day_of_league, number_of_games):
         extract_image_to_text(home_saved_inverted_image, home_txt_file)
         extract_image_to_text(away_saved_inverted_image, away_txt_file)
 
+        normalize_data.normalize(home_txt_file)
+        normalize_data.normalize(away_txt_file)
