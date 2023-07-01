@@ -1,21 +1,27 @@
 <style>
   .game-form {
-    margin: 0px;
     display: flex;
     flex-direction: column;
-    width: 200px;
+    width: 160px;
   }
 
   .game-label {
     text-align: center;
     margin-bottom: 4px;
   }
+
   .game-select {
     margin-bottom: 12px;
     text-align: center;
     padding: 4px;
   }
 
+  input[type=submit] {
+    padding: 4px;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: green;
+  }
 </style>
 <form class="game-form">
   <input type="hidden" name="photo_id" value="{{ photo_path }}">
