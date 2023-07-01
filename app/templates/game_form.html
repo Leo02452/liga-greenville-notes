@@ -6,25 +6,26 @@
     width: 200px;
   }
 
-  #competition {
+  .game-label {
     text-align: center;
+    margin-bottom: 4px;
   }
 </style>
 <form class="game-form">
   <input type="hidden" name="photo_id" value="{{ photo_path }}">
-  <label for="home_team">Mandante</label>
+  <label for="home_team" class="game-label">Mandante</label>
   <select name="home_team" id="home_team" class="game-input">
     {% for team in template_teams %}
       <option value="{{ team }}">{{ team }}</option>
     {% endfor %}
   </select>
-  <label for="away_team">Visitante</label>
+  <label for="away_team" class="game-label">Visitante</label>
   <select name="away_team" id="away_team" class="game-input">
     {% for team in template_teams %}
       <option value="{{ team }}">{{ team }}</option>
     {% endfor %}
   </select>
-  <label for="competition">Competição:</label>
+  <label for="competition" class="game-label">Competição</label>
   <select name="competition" id="competition" class="game-input">
     {% for competition in template_competitions %}
       <option value="{{ competition }}">{{ competition }}</option>
