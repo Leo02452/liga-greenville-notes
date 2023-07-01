@@ -1,5 +1,5 @@
 <style>
-  .form-group {
+  .player-group {
     margin: 7px 0;
   }
 
@@ -14,7 +14,7 @@
 </style>
 <div class="notes-form">
   {% for player_data in team %}
-    <div class="form-group">
+    <div class="player-group">
       <select name="position{{ loop.index }}" class="position-input">
         <option value="" {% if player_data.position == '' %}selected{% endif %}>-- --</option>
         {% for position in template_positions_list %}
