@@ -1,13 +1,14 @@
 <style>
-  .player_line_form {
-    display: flex;
+  .form-group {
+    margin: 7px 0;
   }
 
   .player-name-input {
-    width: 120px;
+    width: 144px;
   }
+
   .position-input, .note-input {
-    width: 50px;
+    width: 72px;
     text-align: center;
   }
 </style>
@@ -20,7 +21,7 @@
           <option value="{{ position }}" {% if position == player_data.position %}selected{% endif %}>{{ position }}</option>
         {% endfor %}
       </select>
-      <select name="position{{ loop.index }}" class="player-name-input">
+      <select name="player{{ loop.index }}" class="player-name-input">
         <option value="" {% if player_data.player_ame == '' %}selected{% endif %}>-- --</option>
         {% for player_name in template_active_players_list %}
           <option value="{{ player_name }}" {% if player_name == player_data.player_name %}selected{% endif %}>{{ player_name }}</option>
