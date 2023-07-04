@@ -37,27 +37,30 @@
     <span>Cheque os dados, corrija se necessário e salve cada jogo individualmente</span>
   </header>
   {% for i in range(0, image_paths|length, 2) %}
-    <div class="game-container">
-      {% set template_active_players_list = active_players_list %}
-      {% set template_team1 = extracted_data[i] %}
-      {% set template_team2 = extracted_data[i+1] %}
-      {% set template_positions_list = positions_list %}
-
-      {% with team=template_team1 %}
-        {% include 'players_form.html' %}
-      {% endwith %}
-      <img src="{{ url_for('static', filename=image_paths[i]) }}" alt="imagens das notas" class="game-image">
-      {% set template_teams = teams %}
-      {% set template_competitions = competitions %}
-      {% include 'game_form.html' %}
-
-      {% if i+1 < image_paths|length %}
-        <img src="{{ url_for('static', filename=image_paths[i+1]) }}" alt="imagens das notas" class="game-image">
-        {% with team=template_team2 %}
+    <form method="POST" action="/game-submition">
+      <div class="game-container">
+        {% set template_active_players_list = active_players_list %}
+        {% set template_team1 = extracted_data[i] %}
+        {% set template_team2 = extracted_data[i+1] %}
+        {% set template_positions_list = positions_list %}
+  
+        {% with team=template_team1, team_field="ht" %}
           {% include 'players_form.html' %}
         {% endwith %}
-      {% endif %}
-    </div>
+        <img src="{{ url_for('static', filename=image_paths[i]) }}" alt="imagens das notas" class="game-image">
+        {% set template_teams = teams %}
+        {% set template_competitions = competitions %}
+        {% include 'game_form.html' %}
+  
+        {% if i+1 < image_paths|length %}
+          <img src="{{ url_for('static', filename=image_paths[i+1]) }}" alt="imagens das notas" class="game-image">
+          {% with team=template_team2, team_field="at" %}
+            {% include 'players_form.html' %}
+          {% endwith %}
+        {% endif %}
+      </div>
+      <input type="submit" value="Salvar">
+    </form>
   {% endfor %}
 </body>
 </html>
