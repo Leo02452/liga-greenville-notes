@@ -3,6 +3,7 @@ from app.extract_notes_to_text import extract_notes
 from app.update_active_players import teams, competitions, active_players_list, positions_list
 from werkzeug.utils import secure_filename
 from app.helpers.extraction import extract_text_to_list
+from app.csv_converter import save_in_csv
 import os
 
 app = Flask(
@@ -60,6 +61,63 @@ def extract_notes(
         extracted_data=extracted_data,
         positions_list=positions_list,
         )
+
+@app.route('/game-submition', methods=['POST'])
+def submit_game():
+    home_team = request.form["home_team"]
+    away_team = request.form["away_team"]
+    competition = request.form["competition"]
+    print(home_team, away_team, competition)
+    home_team_players = []
+    away_team_players = []
+    index = 1
+    while True:
+        if (
+            f"ht_position_{index}" in request.form and
+            f"ht_name_{index}" in request.form and
+            f"ht_note_{index}" in request.form
+            ):
+                home_team_player_position = request.form[f"ht_position_{index}"]
+                home_team_player_name = request.form[f"ht_name_{index}"]
+                home_team_player_note = request.form[f"ht_note_{index}"]
+
+                home_team_players.append({
+                    'position': home_team_player_position,
+                    'name': home_team_player_name,
+                    'note': home_team_player_note
+                })
+
+        if (
+            f"at_position_{index}" in request.form and
+            f"at_name_{index}" in request.form and
+            f"at_note_{index}" in request.form
+            ):
+                away_team_player_position = request.form[f"at_position_{index}"]
+                away_team_player_name = request.form[f"at_name_{index}"]
+                away_team_player_note = request.form[f"at_note_{index}"]
+
+                away_team_players.append({
+                    'position': away_team_player_position,
+                    'name': away_team_player_name,
+                    'note': away_team_player_note
+                })
+
+                index += 1
+        else:
+             index += 1
+             break
+    save_in_csv(home_team_players, {
+        "team": home_team,
+        "opponent": away_team,
+        "competition": competition
+    })
+
+    save_in_csv(away_team_players, {
+        "team": away_team,
+        "opponent": home_team,
+        "competition": competition
+    })
+    return "successful"
 
 if __name__ == '__main__':
     app.run()
