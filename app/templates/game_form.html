@@ -23,7 +23,7 @@
     background-color: green;
   }
 </style>
-<form class="game-form">
+<div class="game-form">
   <input type="hidden" name="photo_id" value="{{ photo_path }}">
   <label for="home_team" class="game-label">Mandante</label>
   <select name="home_team" id="home_team" class="game-select">
@@ -43,5 +43,4 @@
       <option value="{{ competition }}">{{ competition }}</option>
     {% endfor %}
   </select>
-  <input type="submit" value="Salvar" />
-</form>
+</div>
