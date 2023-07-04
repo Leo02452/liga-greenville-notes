@@ -15,19 +15,19 @@
 <div class="notes-form">
   {% for player_data in team %}
     <div class="player-group">
-      <select name="position{{ loop.index }}" class="position-input">
+      <select name="{{ team_field }}_position_{{ loop.index }}" class="position-input">
         <option value="" {% if player_data.position == '' %}selected{% endif %}>-- --</option>
         {% for position in template_positions_list %}
           <option value="{{ position }}" {% if position == player_data.position %}selected{% endif %}>{{ position }}</option>
         {% endfor %}
       </select>
-      <select name="player{{ loop.index }}" class="player-name-input">
+      <select name="{{ team_field }}_name_{{ loop.index }}" class="player-name-input">
         <option value="" {% if player_data.player_ame == '' %}selected{% endif %}>-- --</option>
         {% for player_name in template_active_players_list %}
           <option value="{{ player_name }}" {% if player_name == player_data.player_name %}selected{% endif %}>{{ player_name }}</option>
         {% endfor %}
       </select>
-      <input type="text" name="note{{ loop.index }}" value="{{ player_data.note }}" class="note-input">
+      <input type="text" name="{{ team_field }}_note_{{ loop.index }}" value="{{ player_data.note }}" class="note-input">
     </div>
   {% endfor %}
 </div>
