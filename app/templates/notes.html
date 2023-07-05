@@ -73,7 +73,12 @@
           {% endwith %}
         {% endif %}
       </div>
-      <input type="submit" value="Salvar">
+      <input type="hidden" name="form_index" value="{{ i }}">
+      {% if i in submitted_form_indexes %}
+        <p class="message">Jogo salvo!</p>
+      {% else %}
+        <input type="submit" value="Salvar">
+      {% endif %}
     </form>
   {% endfor %}
 </body>

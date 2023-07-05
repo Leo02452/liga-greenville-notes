@@ -141,12 +141,9 @@ def submit_game():
     image_paths = session.get('image_paths')
     extracted_data = session.get('extracted_data')
 
-    save_in_csv(away_team_players, {
-        "team": away_team,
-        "opponent": home_team,
-        "competition": competition
-    })
-    return "successful"
+    submitted_form_indexes = session.get('submitted_form_indexes', [])
+    submitted_form_indexes.append(int(request.form.get("form_index")))
+    session['submitted_form_indexes'] = submitted_form_indexes
 
     return render_template(
         'notes.html',
@@ -156,6 +153,7 @@ def submit_game():
         active_players_list=active_players_list,
         extracted_data=extracted_data,
         positions_list=positions_list,
+        submitted_form_indexes=submitted_form_indexes,
         )
 
 if __name__ == '__main__':
