@@ -5,7 +5,6 @@ import os
 
 def extract_notes(season, day_of_league, number_of_games):
     for index in range(1, (number_of_games + 1)):
-        os.makedirs(f"app/static/{season}/{day_of_league}/images/originals", exist_ok=True)
         home_image_1 = f"app/static/{season}/{day_of_league}/images/originals/j{index}h1.png"
         home_image_2 = f"app/static/{season}/{day_of_league}/images/originals/j{index}h2.png"
         away_image_1 = f"app/static/{season}/{day_of_league}/images/originals/j{index}a1.png"
