@@ -1,4 +1,4 @@
-from flask import Flask, render_template, request, redirect
+from flask import Flask, render_template, request, redirect, session
 from app.extract_notes_to_text import extract_notes
 from app.update_active_players import teams, competitions, active_players_list, positions_list
 from werkzeug.utils import secure_filename
@@ -9,6 +9,8 @@ import os
 app = Flask(
     __name__,
     )
+
+app.secret_key = 'your_secret_key'
 
 @app.route('/', methods=['GET', 'POST'])
 def index():
@@ -51,6 +53,11 @@ def show_notes(
         away_file_data = extract_text_to_list(away_file_path)
         extracted_data.append(home_file_data)
         extracted_data.append(away_file_data)
+    
+    session['image_paths'] = image_paths
+    session['extracted_data'] = extracted_data
+    session['season'] = season
+    session['day'] = day
 
     return render_template(
         'notes.html',
@@ -67,7 +74,6 @@ def submit_game():
     home_team = request.form["home_team"]
     away_team = request.form["away_team"]
     competition = request.form["competition"]
-    print(home_team, away_team, competition)
     home_team_players = []
     away_team_players = []
     index = 1
@@ -106,11 +112,34 @@ def submit_game():
         else:
              index += 1
              break
-    save_in_csv(home_team_players, {
-        "team": home_team,
-        "opponent": away_team,
-        "competition": competition
-    })
+        
+    season = session.get('season')
+    day = session.get('day')
+
+    save_in_csv(
+        home_team_players,
+        {
+            "team": home_team,
+            "opponent": away_team,
+            "competition": competition,
+        },
+        season,
+        day,
+    )
+
+    save_in_csv(
+        away_team_players,
+        {
+            "team": away_team,
+            "opponent": home_team,
+            "competition": competition,
+        },
+        season,
+        day
+    )
+
+    image_paths = session.get('image_paths')
+    extracted_data = session.get('extracted_data')
 
     save_in_csv(away_team_players, {
         "team": away_team,
@@ -118,6 +147,16 @@ def submit_game():
         "competition": competition
     })
     return "successful"
+
+    return render_template(
+        'notes.html',
+        image_paths=image_paths,
+        teams=teams,
+        competitions=competitions,
+        active_players_list=active_players_list,
+        extracted_data=extracted_data,
+        positions_list=positions_list,
+        )
 
 if __name__ == '__main__':
     app.run()
