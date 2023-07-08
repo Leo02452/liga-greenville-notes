@@ -1,10 +1,11 @@
 from flask import Flask, render_template, request, redirect, session
 from app.extract_notes_to_text import extract_notes
-from app.update_active_players import teams, competitions, active_players_list, positions_list
+from app.update_active_players import teams, competitions, positions_list
 from werkzeug.utils import secure_filename
 from app.helpers.extraction import extract_text_to_list
 from app.csv_converter import save_in_csv
 import os
+from app.get_active_players import active_players_list
 
 app = Flask(
     __name__,

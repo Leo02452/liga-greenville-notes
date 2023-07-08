@@ -22,15 +22,3 @@ teams = [
 ]
 
 competitions = ['A', 'B', 'C', 'SC']
-
-def update_active_players():
-    with open('active_players.csv', 'r') as file:
-        players_list = list()
-        for line in file:
-            if line.strip() is not None:
-                players_list.append(line.strip())
-    players_list.sort()
-    return players_list
-
-active_players_list = update_active_players()
-print('updated')
