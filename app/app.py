@@ -5,6 +5,7 @@ from werkzeug.utils import secure_filename
 from app.helpers.extraction import extract_text_to_list
 from app.csv_converter import save_in_csv
 import os
+from app.write_in_gspreadsheet import write_notes_in_google_sheets
 from app.get_active_players import active_players_list
 
 app = Flask(
@@ -137,6 +138,24 @@ def submit_game():
         },
         season,
         day
+    )
+
+    write_notes_in_google_sheets(
+         home_team_players,
+         {
+            "team": home_team,
+            "opponent": away_team,
+            "competition": competition,
+        },
+    )
+
+    write_notes_in_google_sheets(
+        away_team_players,
+        {
+            "team": away_team,
+            "opponent": home_team,
+            "competition": competition,
+        },
     )
 
     image_paths = session.get('image_paths')
