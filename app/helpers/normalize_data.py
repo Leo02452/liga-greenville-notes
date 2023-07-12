@@ -1,5 +1,5 @@
 import unicodedata, shutil, re
-from app.get_active_players import active_players_list
+from app.helpers.google_spreadsheets.get_active_players import active_players_list
 
 def remove_accents_and_letter_through(player):
     normalized_player = unicodedata.normalize('NFD', player)

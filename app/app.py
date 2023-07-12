@@ -1,8 +1,10 @@
 from flask import Flask, render_template, request, redirect, session
+from app.helpers.extract_notes_to_text import extract_notes
+from app.helpers.season_static_data import teams, competitions, positions_list
 from app.helpers.converters import extract_text_to_list, extract_list_to_csv
 import os
-from app.write_in_gspreadsheet import write_notes_in_google_sheets
-from app.get_active_players import active_players_list
+from app.helpers.google_spreadsheets.write_in_gspreadsheet import write_players_notes_in_google_sheets
+from app.helpers.google_spreadsheets.get_active_players import active_players_list
 
 app = Flask(
     __name__,
@@ -135,7 +137,7 @@ def submit_game():
         day
     )
 
-    write_notes_in_google_sheets(
+    write_players_notes_in_google_sheets(
          home_team_players,
          {
             "team": home_team,
@@ -144,7 +146,7 @@ def submit_game():
         },
     )
 
-    write_notes_in_google_sheets(
+    write_players_notes_in_google_sheets(
         away_team_players,
         {
             "team": away_team,
