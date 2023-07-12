@@ -1,7 +1,7 @@
 from flask import Flask, render_template, request, redirect, session
 from app.extract_notes_to_text import extract_notes
 from app.season_static_data import teams, competitions, positions_list
-from werkzeug.utils import secure_filename
+
 from app.helpers.extraction import extract_text_to_list
 from app.csv_converter import save_in_csv
 import os
@@ -27,8 +27,7 @@ def index():
 
             for key, file in request.files.items():
                 if key.startswith('home_image_') or key.startswith('away_image_'):
-                    filename = secure_filename(file.filename)
-                    file_path = os.path.join(image_dir, filename)
+                    file_path = os.path.join(image_dir, file.filename)
                     file.save(file_path)
 
             extract_notes(season, day, int(number_of_games))
