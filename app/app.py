@@ -1,9 +1,5 @@
 from flask import Flask, render_template, request, redirect, session
-from app.extract_notes_to_text import extract_notes
-from app.season_static_data import teams, competitions, positions_list
-
-from app.helpers.extraction import extract_text_to_list
-from app.csv_converter import save_in_csv
+from app.helpers.converters import extract_text_to_list, extract_list_to_csv
 import os
 from app.write_in_gspreadsheet import write_notes_in_google_sheets
 from app.get_active_players import active_players_list
@@ -117,7 +113,7 @@ def submit_game():
     season = session.get('season')
     day = session.get('day')
 
-    save_in_csv(
+    extract_list_to_csv(
         home_team_players,
         {
             "team": home_team,
@@ -128,7 +124,7 @@ def submit_game():
         day,
     )
 
-    save_in_csv(
+    extract_list_to_csv(
         away_team_players,
         {
             "team": away_team,
