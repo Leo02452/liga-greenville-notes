@@ -1,0 +1,13 @@
+ATA,R. Lewandowski,1.4
+MEI,Bruno Fernandes,6.0
+MEI,L. Messi,7.0
+ME,Neymar Jr,8.3
+MCE,N. Barella,6.0
+MCE,Marcos Llorente,5.6
+MD,H. Son,7.
+VOL,N. Kanté,6.4
+LE,None,6.8
+ZGE,Rúben Dias,7.
+Z6D,A. Bastoni,6.6
+LD,João Cancelo,7.
+GOL,M. ter Stegen,6.3

@@ -1,0 +1,12 @@
+ATA,A. Griezmann,1.5
+MES.,None,6.9
+ME,T. Lemar,6.7
+MCE,None,6.7
+MCD,Luis Alberto,6.6
+MD.,Raphinha,6.9
+VOL,None,7.0
+LE,L. Shaw,7.3
+ZGE,M. Škriniar,6.3
+ZGD,S. de Vrij,7.3
+LB,Odriozola,6.9
+GOL,None,6.7

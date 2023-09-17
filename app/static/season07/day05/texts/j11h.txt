@@ -1,0 +1,13 @@
+ATA,P. Schick,7.3
+ATA,Gabriel Jesus,7.2
+MEI,J. Maddison,7.6
+MEI,M. Reus,5.9
+ME,M. Diaby,7.5
+MD,H. Lozano,6.0
+VLE,T. Partey,7.0
+VLD,J. Bellingham,7.9
+LE,Fran García,6.8
+ZGE,R. Varane,6.8
+ZGD,Gabriel,7.5
+LD,N. Mazraoui,6.9
+GOL,M. Neuer,6.6

@@ -1,0 +1,14 @@
+ATA,S. Mané,5.9
+MEM.,None,6.4
+ME,A. Griezmann,6.4
+ME,T. Lemar,5.6
+MCE,None,6.3
+MCD,R. Bentancur,5.9
+MCD,Luis Alberto,6.7
+MD,Raphinha,6.4
+VOL,None,6.8
+LE,L. Shaw,6.9
+Z6E,M. Škriniar,6.9
+Z6D,S. de Vrij,7.
+LD,Odriozola,7.5
+GOL,None,6.1

@@ -1,0 +1,11 @@
+ATA,E. Haaland,1.4
+MEE,J. Brandt,7.5
+MED,M. Verratti,6.6
+ME,F. Kostić,7.5
+MC,M. Brozović,7.3
+MD,Antony,8.3
+LE,A. Davies,7.6
+ZGE,D. Alaba,7.2
+ZG6D,A. Rüdiger,7.1
+LD,R. Araujo,6.9
+GOL,T. Courtois,7.7

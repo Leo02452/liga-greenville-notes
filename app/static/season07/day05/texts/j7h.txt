@@ -1,0 +1,16 @@
+ATA,João Félix,6.4
+ATA,R. Lewandowski,6.5
+MEI,Bruno Fernandes,7.8
+MEI,L. Messi,6.0
+ME,K. Kvaratskhelia,6.4
+ME,Neymar Jr,6.4
+MCE,N. Barella,5.8
+MCE,Marcos Llorente,6.1
+MD,Diogo Jota,7.0
+MD,H. Son,5.5
+VOL,N. Kanté,6.5
+LE,None,6.6
+ZGE,Rúben Dias,6.8
+Z6D,A. Bastoni,6.0
+LP,João Cancelo,6.1
+GOL,M. ter Stegen,6.6

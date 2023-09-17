@@ -1,0 +1,15 @@
+ATE,C. Immobile,8.6
+ATD,I. Sarr,5.9
+ATD,Á. Correa,6.0
+MEE,None,5.9
+MEE,Gabriel Martinelli,8.0
+MED,D. Mertens,5.8
+MED,S. Gnabry,6.5
+VLE,S. Tonali,5.8
+VLE,Thiago,
+VLD,F. Kessié,8.7
+LE,J. Frimpong,1.5
+ZGE,K. Koulibaly,1.2
+Z6D,Pepe,6.1
+LP,J. Cuadrado,1.6
+GOL,W. Szczęsny,6.7

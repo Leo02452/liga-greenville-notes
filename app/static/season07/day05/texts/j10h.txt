@@ -1,0 +1,11 @@
+PE,M. Rashford,7.5
+ATA,H. Kane,8.2
+PD,L. Sané,7.1
+MEE,None,6.4
+MED,K. Havertz,6.2
+MC,Pedri,6.2
+ADE,T. Hernández,8.4
+ZGE,Marquinhos,7.1
+ZGD,Pau Torres,7.2
+ADD,J. Koundé,7.6
+GOL,M. Maignan,6.0
