@@ -1,0 +1,12 @@
+ATA,H. Kane,5.8
+MAE,L. Insigne,5.7
+MAE,H. Barnes,5.8
+MAD,L. Sané,6.6
+MCE,M. Ødegaard,6.0
+MC,Pedri,6.2
+MCD,A. Tchouaméni,6.9
+LE,T. Hernández,6.7
+ZGE,Marquinhos,6.4
+ZG6D,Pau Torres,7.0
+LD,J. Koundé,6.3
+GOL,M. Maignan,5.4

@@ -1,0 +1,11 @@
+ATE,D. Vlahović,6.3
+ATD,None,6.5
+ME,J. Grealish,6.5
+MCE,L. Goretzka,7.7
+MCD,Renato Sanches,6.5
+MD,D. Berardi,6.5
+LE,Angeliño,6.5
+ZGE,F. Tomori,6.4
+Z6D,J. Matip,5.6
+LD,M. Cash,7.2
+GOL,Ederson,5.3

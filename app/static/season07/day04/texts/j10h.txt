@@ -1,0 +1,13 @@
+PE,M. Rashford,6.9
+PE,Rafael Leão,1.9
+ATA,K. Mbappé,7.8
+PD,None,6.2
+MCE,Merino,1.9
+MC,Sergi Darder,6.3
+MCD,None,6.5
+MCD,Muniain,6.0
+LE,F. Mendy,6.7
+ZGE,N. Schlotterbeck,7.2
+Z6D,W. Saliba,6.4
+LD,Balde,7.2
+GOL,É. Mendy,7.2

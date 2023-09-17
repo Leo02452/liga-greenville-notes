@@ -1,0 +1,11 @@
+ATA,H. Kane,8.4
+MAE,None,8.1
+MAD,K. Havertz,8.9
+MCE,M. Ødegaard,7.7
+MC,A. Tchouaméni,7.2
+MCD,Pedri,6.9
+LE,T. Hernández,8.1
+ZGE,Marquinhos,7.0
+ZG6D,Pau Torres,7.1
+LD,J. Koundé,6.8
+GOL,M. Maignan,6.8

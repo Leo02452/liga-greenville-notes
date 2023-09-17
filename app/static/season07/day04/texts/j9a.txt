@@ -1,0 +1,15 @@
+PE,Adama Traoré,6.4
+ATA,Arthur Cabral,6.4
+ATA,L. Martínez,9.0
+PD,Nico Williams,6.0
+MEE,Rafa,1.9
+MEI,T. Müller,8.8
+MED,J. Musiala,1.4
+VLE,L. Modrić,7.5
+VLD,K. Laimer,1.6
+LE,Nuno Mendes,6.6
+ZGE,C. Romero,7.
+ZED,Éder Militão,7.5
+LD,H. Traoré,6.0
+LD,D. Dumfries,7.2
+GOL,H. Lloris,6.7

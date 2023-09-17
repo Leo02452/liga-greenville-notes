@@ -1,0 +1,15 @@
+PE,P. Foden,6.8
+PD,O. Dembélé,8.0
+SA,C. Gakpo,5.9
+SA,M. Depay,6.8
+MCE,None,6.4
+MCD,O. Kökçü,6.2
+MCD,E. Fernández,5.8
+VOL,Q. Timber,6.0
+LE,Cucurella,6.0
+LE,Álex Moreno,6.6
+ZGE,None,7.
+Z6D,J. Timber,6.0
+Z6D,J. Stones,6.7
+LP,Carvajal,6.1
+GOL,J. Oblak,6.7

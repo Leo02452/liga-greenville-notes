@@ -1,0 +1,15 @@
+PE,Y. Carrasco,7.
+ATA,A. Isak,1.6
+PD,D. Kulusevski,6.0
+PD,Pedro Gonçalves,7.6
+SA,T. Abraham,6.0
+MEI,S. Berghuis,5.9
+MEIN.,None,6.2
+MCE,N. Zaniolo,6.0
+MCE,F. Wirtz,7.8
+VOLE.,None,6.9
+LE,L. Spinazzola,7.0
+ZGE,None,1.6
+Z6D,P. Kimpembe,7.3
+LD,R. Baku,8.3
+GOL,P. Gulácsi,6.7
