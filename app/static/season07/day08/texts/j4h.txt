@@ -1,0 +1,14 @@
+ATA,C. Gakpo,5.8
+ATA,M. Depay,7.1
+MAE,P. Foden,1.6
+MAD,O. Dembélé,1.6
+MCE,F. de Jong,6.8
+MC,Rodri,6.9
+MCD,None,5.8
+MCD,E. Fernández,6.8
+LE,Álex Moreno,6.4
+ZGE,J. Stones,6.4
+Z6D,None,7.0
+LD,J. Timber,5.8
+LB,Carvajal,6.2
+GOL,J. Oblak,6.4

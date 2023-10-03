@@ -1,0 +1,11 @@
+ATA,C. Nkunku,7.
+MAE,None,8.8
+MAD,K. Coman,8.7
+MCE,D. Szoboszlai,7.3
+MC,Casemiro,6.3
+MCD,J. Kimmich,7.0
+LE,R. Guerreiro,1.5
+ZGE,A. Romagnoli,6.4
+Z6D,M. Akanji,1.2
+LP,R. James,6.8
+GOL,G. Donnarumma,7.2

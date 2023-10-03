@@ -1,0 +1,12 @@
+PE,L. Díaz,6.8
+ATA,R. Lukaku,6.0
+ATA,Roberto Firmino,5.9
+PD,None,7.0
+MCE,T. Kroos,7.2
+MCD,J. Henderson,6.5
+VOL,R. Sterling,6.7
+LE,Jordi Alba,6.9
+ZGE,N. Süle,6.0
+Z6D,Bremer,6.6
+LD,None,7.6
+GOL,K. Trapp,1.2
