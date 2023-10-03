@@ -1,0 +1,13 @@
+ATA,Matheus Cunha,7.8
+ATA,J. David,5.8
+ME,S. Mané,7.1
+MCE,None,6.7
+MCD,A. Griezmann,7.5
+MD,Raphinha,7.6
+VOL,R. Bentancur,6.0
+LE,T. Lemar,6.7
+LE,L. Shaw,7.3
+ZGE,M. Škriniar,6.8
+76D,S. de Vrij,6.9
+LO,Azpilicueta,6.4
+GOL,Álex Remiro,7.7

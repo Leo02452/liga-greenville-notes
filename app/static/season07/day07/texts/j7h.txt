@@ -1,0 +1,11 @@
+ATE,T. Werner,1.7
+ATD,P. Dybala,7.1
+ME,F. Chiesa,7.0
+MCE,İ. Gündoğan,6.8
+MCD,Sergio Busquets,7.1
+MD,R. Mahrez,6.0
+VOL,D. Rice,6.5
+ZGE,L. Martínez,6.7
+ZAG,Thiago Silva,6.1
+76D,Kim Min Jae,6.2
+GOL,E. Martínez,7.2

@@ -1,0 +1,16 @@
+ATA,E. Cavani,6.0
+ATA,W. Ben Yedder,7.3
+MEE,None,5.9
+MEE,Oyarzabal,7.3
+MEL,Matheus Nunes,6.1
+MEI,None,5.8
+MED,J. Doku,5.9
+MED,W. Zaha,7.9
+VLE,E. Can,5.9
+VLE,Y. Tielemans,7.6
+VLD,None,7.2
+LE,M. Acuña,7.7
+ZGE,S. Savić,7.7
+Z6D,M. Ginter,7.0
+LD,A. Hakimi,1.4
+GOL,K. Navas,6.2

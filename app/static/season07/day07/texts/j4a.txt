@@ -1,0 +1,11 @@
+PE,None,6.6
+ATA,D. Vlahović,8.4
+PD,K. Coman,7.5
+MEI,C. Nkunku,8.1
+MCE,Casemiro,7.2
+MCD,J. Kimmich,7.0
+LE,R. Guerreiro,7.7
+ZGE,A. Romagnoli,8.0
+76D,M. Akanji,6.9
+LO,R. James,7.2
+GOL,G. Donnarumma,6.3

@@ -1,0 +1,12 @@
+ATE,Gonçalo Ramos,7.3
+ATD,T. Werner,7.3
+ME,None,6.8
+MCE,A. Mac Allister,7.1
+MCD,Sergio Busquets,6.7
+MD,F. Chiesa,7.7
+MD,R. Mahrez,6.0
+VOL,D. Rice,6.8
+ZGE,L. Martínez,8.0
+ZAG,Thiago Silva,7.1
+Z6D,Kim Min Jae,6.1
+GOL,E. Martínez,7.2
