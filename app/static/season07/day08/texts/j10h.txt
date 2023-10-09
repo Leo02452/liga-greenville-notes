@@ -7,6 +7,6 @@ MC,Rodri,6.1
 MCD,E. Fernández,6.2
 LE,Álex Moreno,6.8
 ZGE,J. Stones,6.9
-Z6D,None,6.7
+ZGD,None,6.7
 LD,Carvajal,6.7
 GOL,J. Oblak,6.7

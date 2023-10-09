@@ -8,6 +8,6 @@ VOL,R. Bentancur,6.0
 LE,T. Lemar,6.7
 LE,L. Shaw,7.3
 ZGE,M. Škriniar,6.8
-76D,S. de Vrij,6.9
-LO,Azpilicueta,6.4
+ZGD,S. de Vrij,6.9
+LD,Azpilicueta,6.4
 GOL,Álex Remiro,7.7

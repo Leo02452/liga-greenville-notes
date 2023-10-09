@@ -5,6 +5,6 @@ MCE,J. Henderson,7.0
 MCD,T. Kroos,6.4
 LE,Jordi Alba,8.0
 ZGE,N. Süle,6.1
-Z6D,Bremer,7.
+ZGD,Bremer,7.
 LD,None,8.2
 GOL,K. Trapp,6.3

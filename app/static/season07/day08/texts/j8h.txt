@@ -10,6 +10,6 @@ MC,J. Foyth,6.0
 MCD,E. Camavinga,6.1
 LE,L. Spinazzola,7.
 ZGE,None,8.0
-Z6D,P. Kimpembe,6.5
-LP,R. Baku,7.3
+ZGD,P. Kimpembe,6.5
+LD,R. Baku,7.3
 GOL,A. Onana,7.

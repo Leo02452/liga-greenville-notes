@@ -5,7 +5,7 @@ MCD,Luis Alberto,6.4
 MD,Raphinha,6.2
 VOL,R. Bentancur,6.1
 LE,L. Shaw,5.8
-Z6E,M. Škriniar,6.5
-Z6D,S. de Vrij,5.7
+ZGE,M. Škriniar,6.5
+ZGD,S. de Vrij,5.7
 LD,Odriozola,7.3
 GOL,None,6.1

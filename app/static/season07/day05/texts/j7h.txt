@@ -11,6 +11,6 @@ MD,H. Son,5.5
 VOL,N. Kanté,6.5
 LE,None,6.6
 ZGE,Rúben Dias,6.8
-Z6D,A. Bastoni,6.0
-LP,João Cancelo,6.1
+ZGD,A. Bastoni,6.0
+LD,João Cancelo,6.1
 GOL,M. ter Stegen,6.6

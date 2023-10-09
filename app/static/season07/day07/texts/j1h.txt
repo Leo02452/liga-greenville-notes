@@ -8,6 +8,6 @@ MCD,R. De Paul,6.1
 MCD,Bruno Guimarães,6.4
 LE,D. Calabria,1.4
 ZGE,R. Varane,7.7
-76D,M. de Ligt,7.6
-LO,N. Mazraoui,7.1
+ZGD,M. de Ligt,7.6
+LD,N. Mazraoui,7.1
 GOL,M. Neuer,7.2

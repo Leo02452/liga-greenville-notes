@@ -8,6 +8,6 @@ MCE,F. Wirtz,6.1
 MCD,E. Camavinga,6.5
 LE,L. Spinazzola,1.5
 ZGE,None,1.5
-Z6D,P. Kimpembe,7.0
-LP,R. Baku,1.6
+ZGD,P. Kimpembe,7.0
+LD,R. Baku,1.6
 GOL,A. Onana,6.8

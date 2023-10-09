@@ -10,7 +10,7 @@ MCD,K. De Bruyne,7.2
 LE,L. Hernández,6.0
 LE,A. Robertson,6.6
 ZGE,V. van Dijk,6.5
-ZG6D,D. Upamecano,6.0
-Z6D,A. Laporte,7.
+ZGD,D. Upamecano,6.0
+ZGD,A. Laporte,7.
 LD,K. Walker,6.6
 GOL,G. Kobel,6.3

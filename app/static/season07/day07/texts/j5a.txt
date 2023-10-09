@@ -6,9 +6,9 @@ MD,Raphinha,1.6
 VOL,Luis Alberto,5.8
 LE,T. Lemar,5.8
 LE,L. Shaw,6.6
-Z6E,M. Škriniar,1.4
-Z6D,S. Coates,6.4
-Z6D,S. de Vrij,5.4
+ZGE,M. Škriniar,1.4
+ZGD,S. Coates,6.4
+ZGD,S. de Vrij,5.4
 LD,R. Bentancur,6.4
-LB,Azpilicueta,6.0
+LD,Azpilicueta,6.0
 GOL,None,7.

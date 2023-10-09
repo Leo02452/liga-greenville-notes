@@ -6,6 +6,6 @@ MD,Raphinha,8.3
 VOL,Luis Alberto,7.
 LE,L. Shaw,8.7
 ZGE,J. Tah,7.0
-Z6D,S. Coates,7.8
-LP,Azpilicueta,1.7
+ZGD,S. Coates,7.8
+LD,Azpilicueta,1.7
 GOL,None,7.8

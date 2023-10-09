@@ -8,7 +8,7 @@ MCD,Luis Alberto,6.7
 MD,Raphinha,6.4
 VOL,None,6.8
 LE,L. Shaw,6.9
-Z6E,M. Škriniar,6.9
-Z6D,S. de Vrij,7.
+ZGE,M. Škriniar,6.9
+ZGD,S. de Vrij,7.
 LD,Odriozola,7.5
 GOL,None,6.1

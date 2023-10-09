@@ -11,6 +11,6 @@ MCD,Ricardo Horta,6.0
 MCD,E. Camavinga,7.9
 LE,L. Spinazzola,7.3
 ZGE,None,7.8
-Z6D,P. Kimpembe,1.6
-LP,R. Baku,7.3
+ZGD,P. Kimpembe,1.6
+LD,R. Baku,7.3
 GOL,A. Onana,7.0

@@ -8,5 +8,5 @@ VOL,None,7.0
 LE,L. Shaw,7.3
 ZGE,M. Škriniar,6.3
 ZGD,S. de Vrij,7.3
-LB,Odriozola,6.9
+LD,Odriozola,6.9
 GOL,None,6.7

@@ -10,6 +10,6 @@ VLE,Thiago,
 VLD,F. Kessié,8.7
 LE,J. Frimpong,1.5
 ZGE,K. Koulibaly,1.2
-Z6D,Pepe,6.1
-LP,J. Cuadrado,1.6
+ZGD,Pepe,6.1
+LD,J. Cuadrado,1.6
 GOL,W. Szczęsny,6.7

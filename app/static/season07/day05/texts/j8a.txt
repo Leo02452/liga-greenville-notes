@@ -2,10 +2,10 @@ ATA,E. Haaland,1.7
 MEE,C. Eriksen,5.9
 MED,Antony,6.7
 ME,A. Davies,6.0
-MC,M. Verratti,6.6
+MC,None,6.6
 MD,J. Brandt,6.5
 LE,D. Alaba,6.2
 ZGE,None,6.9
-ZG6D,A. Rüdiger,6.8
+ZGD,A. Rüdiger,6.8
 LD,R. Araujo,7.3
 GOL,T. Courtois,5.9

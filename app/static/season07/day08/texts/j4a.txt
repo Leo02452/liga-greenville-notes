@@ -8,6 +8,6 @@ MCD,Marcos Llorente,5.9
 VOL,N. Kanté,7.8
 LE,None,1.6
 ZGE,Rúben Dias,1.6
-Z6D,A. Bastoni,6.2
-LP,João Cancelo,7.2
+ZGD,A. Bastoni,6.2
+LD,João Cancelo,7.2
 GOL,M. ter Stegen,1.7

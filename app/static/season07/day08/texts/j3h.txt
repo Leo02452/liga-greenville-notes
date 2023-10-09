@@ -6,6 +6,6 @@ MCE,J. Henderson,6.5
 MCD,T. Kroos,6.7
 LE,Jordi Alba,7.3
 ZGE,None,7.2
-Z6D,Bremer,6.5
-LP,None,6.9
+ZGD,Bremer,6.5
+LD,None,6.9
 GOL,K. Trapp,7.

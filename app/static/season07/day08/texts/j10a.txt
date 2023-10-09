@@ -1,4 +1,4 @@
-PE,None,8.4
+PE,Vini Jr.,8.4
 ATA,H. Kane,9.1
 PD,M. Rashford,6.6
 MED,Pedri,6.8
@@ -6,6 +6,6 @@ MCE,M. Ødegaard,7.5
 VOL,W. Ndidi,7.5
 LE,T. Hernández,7.2
 ZGE,Marquinhos,7.6
-ZG6D,Pau Torres,6.9
+ZGD,Pau Torres,6.9
 LD,J. Koundé,8.1
 GOL,M. Maignan,7.3

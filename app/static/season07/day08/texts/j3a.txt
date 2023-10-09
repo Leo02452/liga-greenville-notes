@@ -6,6 +6,6 @@ MC,L. Modrić,6.7
 VOL,L. Goretzka,6.3
 LE,Angeliño,6.3
 ZGE,F. Tomori,5.8
-Z6D,J. Matip,5.9
+ZGD,J. Matip,5.9
 LD,None,6.0
 GOL,Ederson,6.5

@@ -1,12 +1,12 @@
 PE,Rafael Leão,1.4
 ATA,K. Mbappé,1.4
 PD,R. Kolo Muani,6.5
-MCE,Merino,7.
+MCE,Mikel Merino,7.
 MC,A. Tchouaméni,7.
 MCD,N. Fekir,5.6
 MCD,H. Çalhanoğlu,7.6
 LE,F. Mendy,1.6
 ZGE,N. Schlotterbeck,1.7
-Z6D,None,7.5
+ZGD,None,7.5
 LD,Balde,7.2
 GOL,É. Mendy,6.0

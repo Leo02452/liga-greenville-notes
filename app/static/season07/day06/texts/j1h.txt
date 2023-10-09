@@ -1,11 +1,11 @@
 ATA,P. Schick,7.
 MEI,M. Reus,5.8
 ME,None,5.9
-MDM.,None,6.7
+MD,None,6.7
 VLE,T. Partey,7.0
 VLD,J. Bellingham,6.9
 LE,Fran García,7.
 ZGE,R. Varane,7.
-Z6D,Gabriel,6.6
+ZGD,Gabriel,6.6
 LD,N. Mazraoui,7.
 GOL,M. Neuer,5.9

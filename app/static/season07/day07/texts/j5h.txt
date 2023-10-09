@@ -9,6 +9,6 @@ MCD,Sergio Busquets,7.
 MD,R. Mahrez,6.4
 LE,D. Rice,6.7
 ZGE,Thiago Silva,6.4
-Z6D,Kim Min Jae,7.0
+ZGD,Kim Min Jae,7.0
 LD,L. Martínez,6.2
 GOL,E. Martínez,6.5

@@ -8,6 +8,6 @@ MD,Raphinha,6.1
 VOL,T. Lemar,6.9
 LE,L. Shaw,7.1
 ZGE,M. Škriniar,7.2
-Z6D,S. Coates,6.4
+ZGD,S. Coates,6.4
 LD,Azpilicueta,7.5
 GOL,None,6.4

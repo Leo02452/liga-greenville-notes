@@ -6,6 +6,6 @@ MC,Mikel Merino,6.0
 MCD,N. Fekir,6.4
 LE,Balde,7.
 ZGE,N. Schlotterbeck,6.5
-Z6D,W. Saliba,6.9
-LP,F. Mendy,7.
+ZGD,W. Saliba,6.9
+LD,F. Mendy,7.
 GOL,É. Mendy,5.6

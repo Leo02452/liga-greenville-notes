@@ -6,6 +6,6 @@ MD,Raphinha,6.2
 VOL,R. Bentancur,6.1
 LE,L. Shaw,6.5
 ZGE,M. Škriniar,6.2
-Z6D,S. de Vrij,7.1
+ZGD,S. de Vrij,7.1
 LD,Azpilicueta,6.9
 GOL,None,7.0

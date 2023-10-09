@@ -6,6 +6,6 @@ MCE,Casemiro,7.2
 MCD,J. Kimmich,7.0
 LE,R. Guerreiro,7.7
 ZGE,A. Romagnoli,8.0
-76D,M. Akanji,6.9
-LO,R. James,7.2
+ZGD,M. Akanji,6.9
+LD,R. James,7.2
 GOL,G. Donnarumma,6.3

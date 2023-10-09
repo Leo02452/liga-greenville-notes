@@ -7,5 +7,5 @@ MD,R. Mahrez,6.2
 VOL,D. Rice,6.8
 7GE,L. Martínez,6.2
 ZAG,Thiago Silva,6.6
-Z6D,Kim Min Jae,6.6
+ZGD,Kim Min Jae,6.6
 GOL,E. Martínez,6.8
