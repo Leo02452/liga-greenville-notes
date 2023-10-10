@@ -1,0 +1,15 @@
+ATA,R. Lewandowski,9.8
+MEI,J. Maddison,6.0
+MEI,M. Reus,6.7
+ME,M. Diaby,8.1
+MD,H. Lozano,6.0
+MDL.,None,7.5
+VLE,R. De Paul,6.4
+VLE,None,5.9
+VLDL.,None,8.0
+VLD,T. Partey,7.3
+LE,D. Calabria,7.0
+ZGE,R. Varane,8.1
+ZGD,None,6.8
+LD,N. Mazraoui,7.2
+GOL,M. Neuer,6.3

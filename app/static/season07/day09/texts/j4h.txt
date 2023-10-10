@@ -1,0 +1,12 @@
+PE,Vini Jr.,6.4
+ATA,H. Kane,5.8
+PD,M. Rashford,6.6
+MEI,M. Ødegaard,6.7
+MCE,Pedri,6.6
+MCD,Lucas Paquetá,5.6
+VOL,None,5.8
+LE,T. Hernández,6.9
+ZGE,Marquinhos,7.0
+ZGD,Pau Torres,6.1
+LD,J. Koundé,6.6
+GOL,M. Maignan,6.6

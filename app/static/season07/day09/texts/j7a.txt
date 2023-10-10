@@ -1,0 +1,14 @@
+PE,M. Diaby,7.6
+ATA,R. Lewandowski,7.0
+PD,H. Lozano,5.8
+PD,L. Sané,6.5
+MEI,J. Maddison,5.7
+MEI,M. Reus,6.3
+MCE,T. Partey,7.3
+MCD,R. De Paul,5.7
+MCD,Bruno Guimarães,6.3
+LE,D. Calabria,7.6
+ZGE,R. Varane,7.7
+ZGD,M. de Ligt,6.6
+LD,N. Mazraoui,1.4
+GOL,M. Neuer,6.5

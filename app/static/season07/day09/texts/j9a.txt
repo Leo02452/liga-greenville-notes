@@ -1,0 +1,14 @@
+ATA,L. Martínez,7.
+ATD,Gabriel Jesus,1.6
+PD,Rafa,5.9
+MEI,J. Musiala,1.6
+MED,B. Saka,6.5
+ME,Nico Williams,5.8
+MCE,S. Lobotka,8.1
+MCD,K. Laimer,7.0
+LE,Nuno Mendes,6.8
+ZGE,E. Álvarez,6.0
+ZGE,C. Romero,6.6
+ZEP,Éder Militão,7.0
+LD,D. Dumfries,7.
+GOL,H. Lloris,7.
