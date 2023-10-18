@@ -1,0 +1,11 @@
+PE,Y. Carrasco,8.5
+ATA,A. Isak,9.1
+PD,N. González,9.3
+SA,Anderson Talisca,7.
+MCE,F. Wirtz,7.
+MCD,E. Camavinga,1.5
+VOL,D. Rice,6.4
+ZGE,J. Gomez,6.5
+ZAG,L. Martínez,6.5
+ZGD,Kim Min Jae,6.5
+GOL,E. Martínez,5.5

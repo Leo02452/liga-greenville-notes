@@ -1,0 +1,13 @@
+ATA,W. Ben Yedder,8.2
+MEE,Oyarzabal,7.5
+MEI,Canales,6.8
+MED,W. Zaha,6.9
+VLE,E. Can,6.0
+VLE,Y. Tielemans,7.
+VLD,P. Pogba,7.3
+LE,M. Acuña,7.7
+ZGE,Diego Carlos,6.0
+7GE,S. Savić,6.1
+ZGD,M. Ginter,7.0
+LD,A. Hakimi,7.2
+GOL,K. Navas,7.1

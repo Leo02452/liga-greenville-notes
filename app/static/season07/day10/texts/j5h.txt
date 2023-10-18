@@ -1,0 +1,12 @@
+ATA,K. Mbappé,8.1
+MAE,Rafael Leão,8.0
+MAD,C. Pulisic,6.3
+MAD,None,6.4
+MCE,A. Tchouaméni,6.5
+MC,Mikel Merino,6.3
+MCD,N. Fekir,7.3
+LE,Balde,7.0
+ZGE,N. Schlotterbeck,1.2
+ZGD,W. Saliba,6.6
+LD,F. Mendy,7.
+GOL,É. Mendy,5.6

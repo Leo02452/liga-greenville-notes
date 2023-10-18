@@ -1,0 +1,12 @@
+ATA,Matheus Cunha,7.
+MES.,None,6.7
+MCE,A. Griezmann,8.4
+MCE,Luis Alberto,7.5
+MCD,R. Bentancur,6.7
+MD,Raphinha,6.2
+VOL,T. Lemar,7.2
+LE,L. Shaw,7.0
+ZGE,M. Škriniar,6.5
+ZGD,S. de Vrij,7.
+LD,Azpilicueta,6.4
+GOL,None,5.8

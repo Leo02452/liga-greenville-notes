@@ -1,0 +1,15 @@
+ATE,Gonçalo Ramos,1.6
+ATE,P. Dybala,7.5
+ATD,T. Werner,9.3
+ME,None,6.6
+ME,F. Chiesa,7.0
+MCE,None,6.4
+MCD,None,6.6
+MCD,None,6.8
+MD,R. Mahrez,8.0
+VOL,D. Rice,1.6
+ZGE,Grimaldo,6.0
+ZGE,J. Gomez,6.7
+ZAG,L. Martínez,7.
+ZGD,Kim Min Jae,6.6
+GOL,E. Martínez,6.3

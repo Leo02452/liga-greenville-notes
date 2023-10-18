@@ -1,0 +1,11 @@
+ATE,Gonçalo Ramos,6.4
+ATD,T. Werner,6.0
+ME,F. Chiesa,6.2
+MCE,Vitinha,6.4
+MCD,A. Mac Allister,6.3
+MD,R. Mahrez,5.7
+LE,L. Spinazzola,8.5
+ZGE,Sergio Ramos,6.6
+ZGD,P. Kimpembe,7.9
+LD,R. Baku,7.2
+GOL,A. Onana,7.1
