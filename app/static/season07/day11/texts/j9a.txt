@@ -1,0 +1,13 @@
+ATA,L. Martínez,7.5
+MEI,J. Musiala,6.9
+ME,Adama Traoré,6.3
+ME,Rafa,7.2
+MD,Nico Williams,6.0
+MD,B. Saka,7.3
+VLE,S. Lobotka,6.5
+VLD,K. Laimer,8.2
+LE,Nuno Mendes,5.8
+ZGE,C. Romero,6.4
+ZGD,Éder Militão,6.7
+LD,D. Dumfries,6.8
+GOL,H. Lloris,5.3

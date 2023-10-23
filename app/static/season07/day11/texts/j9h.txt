@@ -1,0 +1,13 @@
+ATA,João Félix,8.5
+ATA,Diogo Jota,5.4
+MEI,L. Messi,7.3
+ME,Neymar Jr,7.0
+MCE,J. Bellingham,6.7
+MCE,N. Barella,6.0
+MD,H. Son,6.9
+VOL,N. Kanté,6.3
+LE,None,6.6
+ZGE,Rúben Dias,7.
+ZGD,A. Bastoni,7.
+LD,João Cancelo,6.1
+GOL,M. ter Stegen,7.

@@ -1,0 +1,11 @@
+ATA,L. Martínez,7.
+MEI,J. Musiala,6.9
+ME,Rafa,6.8
+MDB.,None,7.3
+VLE,S. Lobotka,6.3
+VLD‘,K. Laimer,7.3
+LE,Nuno Mendes,6.7
+ZGE,C. Romero,5.8
+ZGD,Éder Militão,6.2
+LD,D. Dumfries,1.4
+GOL,H. Lloris,6.2

@@ -1,0 +1,11 @@
+ATA,E. Haaland,8.4
+MEI,Ferran Torres,7.
+ME,A. Danjuma,7.8
+MD,Antony,9.4
+VLE,Thiago,6.6
+VLD,M. Verratti,7.4
+LE,A. Davies,8.0
+ZGE,D. Alaba,6.9
+ZGD,A. Rüdiger,7.
+LD,Diogo Dalot,7.2
+GOL,T. Courtois,6.4

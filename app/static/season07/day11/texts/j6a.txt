@@ -1,0 +1,11 @@
+PE,L. Díaz,8.5
+ATA,R. Lukaku,7.8
+PD,None,8.8
+MEI,R. Sterling,1.6
+MCE,J. Henderson,1.7
+MCD,T. Kroos,1.6
+LE,Jordi Alba,7.1
+ZGE,N. Süle,1.9
+ZGD,Bremer,7.2
+LD,T. Alexander-Arnold,1.4
+GOL,K. Trapp,6.7
