@@ -41,7 +41,19 @@ def remove_empty_lines(file_path):
     shutil.move('temp_file.txt', file_path)
 
 def normalize_position(position):
+    grouped_replacements = {
+        'ZGD': ['ZED', 'ZG6D', 'Z6D', '76D'],
+        'ZGE': ['Z6E'],
+        'LD': ['LO', 'LP', 'LB'],
+        'MEI': ['MEL'],
+        '': ['M.'],
+    }
+
     uppercase_position = position.upper()
+    for replacement_key, replacement_values in grouped_replacements.items():
+        for key in replacement_values:
+            uppercase_position = uppercase_position.replace(key, replacement_key)
+        
     return uppercase_position
     
 def normalize_player_name(player_name):
@@ -56,7 +68,8 @@ def normalize_player_name(player_name):
         'R. Ledo': 'R. Leão',
         '6. Kobel': 'G. Kobel',
         'Kessić': 'Kessié',
-        'Taglianco': 'Tagliafico'
+        'Taglianco': 'Tagliafico',
+        'Vinicius Jr.': 'Vini Jr.'
     }
 
     grouped_replacements = {
@@ -81,6 +94,7 @@ def normalize_notes(note):
         pattern = r'^(\d{1,2})[.,]?(\d{1})$'
         replacement = r'\1.\2'
         normalized_note = re.sub(pattern, replacement, note)
+        normalized_note = normalized_note.replace('1.', '7.')
         return normalized_note  # Print the matched portion
     elif re.match(r'^(?!^\d{3}$)[a-zA-Z0-9.,]+$', note) or re.match(r'^(?!^\d{3}$)[a-zA-Z.,]+$', note):
         return "7."
