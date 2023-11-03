@@ -1,0 +1,11 @@
+PE,L. Díaz,7.8
+ATA,R. Lukaku,9.2
+PD,Á. Di María,7.
+MEI,R. Sterling,7.2
+MCE,T. Kroos,6.9
+MCD,Joelinton,6.6
+LE,Jordi Alba,7.2
+ZGE,N. Süle,7.2
+ZGD,Bremer,7.3
+LD,None,7.0
+GOL,K. Trapp,7.0

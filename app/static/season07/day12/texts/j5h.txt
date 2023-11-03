@@ -1,0 +1,11 @@
+ATE,Gonçalo Ramos,6.2
+ATD,T. Werner,7.1
+ME,F. Chiesa,7.9
+MCE,İ. Gündoğan,7.2
+MCD,A. Mac Allister,6.8
+MD,R. Mahrez,6.1
+VOL,D. Rice,5.8
+ZGE,J. Gomez,7.9
+ZAG,W. Fofana,7.2
+ZGD,Kim Min Jae,6.3
+GOL,E. Martínez,6.1

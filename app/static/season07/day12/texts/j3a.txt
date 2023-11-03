@@ -1,0 +1,12 @@
+ATE,Gonçalo Ramos,6.3
+ATE,L. Martínez,5.3
+ATD,T. Werner,6.9
+ME,F. Chiesa,5.7
+MCE,M. Mount,6.8
+MCD,A. Mac Allister,5.8
+MD,R. Mahrez,6.5
+VOL,D. Rice,6.9
+ZGE,Grimaldo,6.5
+ZAG,J. Gomez,7.2
+ZGD,Kim Min Jae,7.2
+GOL,E. Martínez,6.7

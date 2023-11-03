@@ -1,0 +1,15 @@
+ATA,Iago Aspas,6.3
+MAE,C. Pulisic,6.0
+MAE,Rafael Leão,6.6
+MAD,K. Mbappé,7.9
+MAD,None,7.7
+MCE,A. Tchouaméni,7.3
+MC,Mikel Merino,6.9
+MCD,N. Fekir,6.0
+MCD,H. Çalhanoğlu,7.5
+LE,J. St. Juste,6.0
+LE,Balde,6.6
+ZGE,N. Schlotterbeck,7.2
+ZGD,W. Saliba,7.
+LD,F. Mendy,7.7
+GOL,É. Mendy,6.1

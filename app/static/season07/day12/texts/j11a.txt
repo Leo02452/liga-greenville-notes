@@ -1,0 +1,12 @@
+ATA,K. Mbappé,6.1
+MAE,C. Pulisic,6.1
+MADR.,None,6.2
+MAD,R. Kolo Muani,6.9
+MCE,A. Tchouaméni,7.0
+MC,Mikel Merino,6.3
+MCD,None,6.5
+LE,Balde,6.9
+ZGE,N. Schlotterbeck,6.0
+ZGD,W. Saliba,5.9
+LD,F. Mendy,7.7
+GOL,É. Mendy,6.3

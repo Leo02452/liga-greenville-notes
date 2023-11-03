@@ -1,0 +1,11 @@
+ATA,K. Mbappé,8.0
+MAE,None,8.3
+MAD,R. Kolo Muani,7.5
+MCE,A. Tchouaméni,6.4
+MC,Mikel Merino,6.9
+MCD,None,7.4
+LE,Balde,8.1
+ZGE,N. Schlotterbeck,6.9
+ZGD,W. Saliba,7.5
+LD,F. Mendy,7.5
+GOL,É. Mendy,6.9

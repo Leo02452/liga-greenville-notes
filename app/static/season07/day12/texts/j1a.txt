@@ -1,0 +1,13 @@
+PE,Y. Carrasco,9.3
+ATA,A. Isak,8.2
+PD,N. González,7.6
+SA,Anderson Talisca,7.7
+MCE,F. Wirtz,7.8
+MCD,E. Camavinga,6.9
+LE,L. Spinazzola,7.7
+ZGE,Sergio Ramos,7.0
+LE,L. Spinazzola,7.7
+ZGE,Sergio Ramos,7.0
+ZGD,P. Kimpembe,6.9
+LD,R. Baku,7.
+GOL,A. Onana,6.2

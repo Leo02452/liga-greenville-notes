@@ -1,0 +1,16 @@
+ATE,None,6.0
+ATE,P. Dybala,7.4
+ATD,T. Werner,6.9
+ME,None,6.0
+ME,F. Chiesa,7.9
+MCE,Sergio Busquets,6.0
+MCE,None,6.5
+MCD,None,6.0
+MCD,None,6.5
+MD,K. Trippier,6.1
+MD,R. Mahrez,5.6
+VOL,D. Rice,6.3
+ZGE,L. Martínez,7.0
+ZAG,J. Gomez,7.3
+ZGD,Kim Min Jae,6.8
+GOL,E. Martínez,5.7
