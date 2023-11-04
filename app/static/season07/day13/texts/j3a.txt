@@ -1,0 +1,14 @@
+PE,Y. Carrasco,7.6
+ATA,A. Isak,6.0
+PD,D. Kulusevski,6.2
+PD,N. González,6.7
+SA,N. Zaniolo,6.0
+SA,Anderson Talisca,6.0
+MCE,F. Wirtz,6.5
+MCD,Muniain,6.0
+MCD,E. Camavinga,6.3
+LE,L. Spinazzola,6.6
+ZGE,Sergio Ramos,7.2
+ZGD,P. Kimpembe,6.9
+LD,R. Baku,6.6
+GOL,A. Onana,6.0

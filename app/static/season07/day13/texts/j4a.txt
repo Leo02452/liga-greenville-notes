@@ -1,0 +1,11 @@
+ATA,E. Cavani,5.9
+ATA,W. Ben Yedder,7.1
+MEE,Iñaki Williams,7.0
+MEE,Oyarzabal,5.9
+MEI,Matheus Nunes,6.4
+MEI,Canales,7.0
+MED,J. Doku,6.4
+MED,W. Zaha,6.5
+VLE,E. Can,6.4
+VLD,P. Pogba,7.5
+LE,M. Acuña,7.3

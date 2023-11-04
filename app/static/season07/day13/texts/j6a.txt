@@ -1,0 +1,14 @@
+ATE,C. Immobile,6.4
+ATD,None,5.7
+ATD,Gabriel Martinelli,6.3
+MEE,Á. Correa,6.3
+MEI,D. Mertens,5.8
+MEI,S. Gnabry,7.0
+MCE,Sergi Darder,5.7
+MCD,S. Tonali,6.4
+VOL,F. Kessié,6.5
+LE,J. Frimpong,7.3
+ZGE,K. Koulibaly,6.9
+ZGD,R. Araujo,7.0
+LD,J. Cuadrado,7.
+GOL,W. Szczęsny,6.3

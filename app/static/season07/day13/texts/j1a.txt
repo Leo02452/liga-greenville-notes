@@ -1,0 +1,11 @@
+PE,J. Grealish,6.5
+ATA,Cristiano Ronaldo,6.2
+PD,D. Malen,6.6
+MEI,D. Berardi,6.3
+MC,L. Modrić,5.8
+VOL,L. Goretzka,6.1
+LE,R. Le Normand,6.7
+ZAG,F. Tomori,6.0
+ZGD,Nacho Fernández,5.5
+LD,G. Di Lorenzo,6.4
+GOL,Ederson,6.7
