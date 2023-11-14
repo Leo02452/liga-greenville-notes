@@ -1,0 +1,15 @@
+ATA,K. Benzema,6.2
+MAE,S. Chukwueze,6.0
+MAE,V. Osimhen,5.9
+MAE,M. Salah,6.2
+MAD,Rodrygo,7.7
+MCE,Bernardo Silva,6.0
+MCE,F. Valverde,6.6
+MC,Fabinho,7.2
+MCD,None,7.8
+LE,L. Hernández,6.6
+LE,A. Robertson,7.3
+ZGE,V. van Dijk,6.5
+ZGD,A. Laporte,7.0
+LD,K. Walker,6.3
+GOL,Alisson,6.4

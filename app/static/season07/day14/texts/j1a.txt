@@ -1,0 +1,13 @@
+ATA,A. Griezmann,8.4
+ME,S. Mané,8.5
+MCE,Luis Alberto,6.0
+MCE,None,6.9
+MCD,R. Bentancur,7.5
+MD,Raphinha,7.
+VOL‘,T. Lemar,7.9
+LE,P. Estupiñán,7.4
+ZGE,S. Coates,5.8
+ZGD,S. de Vrij,6.8
+LD,J. Tah,6.3
+LD,Azpilicueta,7.3
+GOL,None,6.9

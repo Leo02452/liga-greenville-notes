@@ -1,0 +1,13 @@
+ATA,K. Mbappé,7.4
+MAE,Rafael Leão,6.9
+MAD,C. Pulisic,6.0
+MAD,R. Kolo Muani,6.8
+MCE,A. Tchouaméni,
+MC,Mikel Merino,6.4
+MCD,N. Fekir,6.0
+MCD,None,6.3
+LE,Balde,6.5
+ZGE,N. Schlotterbeck,6.3
+ZGD,W. Saliba,6.4
+LD,F. Mendy,7.2
+GOL,É. Mendy,6.6
