@@ -1,0 +1,11 @@
+ATD,F. Acheampong,8.8
+ATD,T. Werner,7.7
+ME,Grimaldo,6.3
+ME,F. Chiesa,6.1
+MCE,M. Mount,7.9
+MCD,A. Mac Allister,6.2
+MD,K. Trippier,5.8
+MD,R. Mahrez,8.6
+VOL,D. Rice,6.3
+ZGE,L. Martínez,7.5
+ZAG,J. Gomez,7.8

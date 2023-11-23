@@ -1,0 +1,13 @@
+ATE,F. Acheampong,8.2
+ATE,Gonçalo Ramos,7.4
+ATD,None,6.3
+ATD,T. Werner,8.5
+ME,F. Chiesa,6.9
+MCE,M. Mount,8.5
+MCD,A. Mac Allister,6.8
+MD,R. Mahrez,7.7
+VOL,D. Rice,7.0
+ZGE,L. Martínez,6.8
+ZAG,J. Gomez,6.2
+ZGD,Kim Min Jae,6.7
+GOL,E. Martínez,6.9
