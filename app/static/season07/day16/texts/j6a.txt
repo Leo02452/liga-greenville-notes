@@ -1,0 +1,11 @@
+ATA,A. Griezmann,7.0
+ME,S. Mané,7.4
+MCE,None,7.5
+MCD,R. Bentancur,6.3
+MD,Raphinha,6.1
+VOLT.,None,6.9
+LE,L. Shaw,7.5
+ZGE,M. Škriniar,7.0
+ZGD,S. de Vrij,7.2
+LD,Azpilicueta,6.8
+GOL,Álex Remiro,6.1

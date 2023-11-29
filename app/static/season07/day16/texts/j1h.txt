@@ -1,0 +1,12 @@
+PE,None,8.1
+ATA,D. Vlahović,8.2
+PD,K. Coman,7.
+MEI,D. Szoboszlai,7.6
+MEIC.,None,7.8
+MCE,Casemiro,7.
+MCD,J. Kimmich,7.2
+LE,R. Guerreiro,8.9
+ZGE,Mario Hermoso,7.3
+ZGD,M. Akanji,7.9
+LD,None,8.2
+GOL,G. Donnarumma,7.

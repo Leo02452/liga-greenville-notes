@@ -1,0 +1,15 @@
+ATE,Adama Traoré,6.0
+ATE,Gabriel Jesus,7.4
+ATD,M. Nzola,6.0
+ATD,L. Martínez,8.0
+ME,Rafa,6.0
+ME,J. Musiala,7.
+MD,Nico Williams,6.0
+MD,B. Saka,7.1
+VLE,None,6.8
+VLD,K. Laimer,6.9
+LE,Nuno Mendes,7.
+ZGE,C. Romero,7.5
+ZEP,Éder Militão,6.8
+LD,D. Dumfries,7.2
+GOL,H. Lloris,6.9

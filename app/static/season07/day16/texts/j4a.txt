@@ -1,0 +1,15 @@
+PE,I. Sarr,6.0
+ATA,C. Immobile,6.0
+PD,Á. Correa,6.0
+MEE,Gabriel Martinelli,6.1
+MEI,None,7.6
+MEI,D. Mertens,5.9
+MEDS.,None,6.0
+MCE,Sergi Darder,6.0
+MCD,F. Kessié,7.4
+VLE,S. Tonali,7.1
+LE,J. Cuadrado,7.2
+ZGE,K. Koulibaly,6.3
+ZGD,R. Araujo,6.6
+LD,J. Frimpong,7.2
+GOL,W. Szczęsny,6.9

@@ -1,0 +1,11 @@
+ATA,R. Lewandowski,6.3
+MEI,M. Reus,6.9
+ME,M. Diaby,6.8
+MDL.,None,6.5
+VLE,None,6.4
+VLD,T. Partey,6.6
+LE,D. Calabria,7.2
+ZGE,R. Varane,7.
+ZGD,None,6.1
+LD,N. Mazraoui,6.8
+GOL,M. Neuer,5.8

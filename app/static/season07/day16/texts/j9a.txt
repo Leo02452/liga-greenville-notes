@@ -1,0 +1,14 @@
+ATE,Gabriel Jesus,6.7
+ATA,L. Martínez,6.2
+MEI,Rafa,6.0
+MET.,None,6.0
+ME,J. Musiala,6.3
+MD,Adama Traoré,6.0
+MD,B. Saka,7.1
+VLE,K. Laimer,5.6
+VLD,None,6.9
+LE,Nuno Mendes,5.9
+ZGE,Éder Militão,6.4
+ZGD,C. Romero,6.0
+LD,D. Dumfries,6.9
+GOL,H. Lloris,6.0
