@@ -1,0 +1,13 @@
+ATA,Iago Aspas,6.0
+MAE,K. Mbappé,6.4
+MADR.,None,6.2
+MAD,R. Kolo Muani,6.1
+MCE,A. Tchouaméni,6.3
+MC,Mikel Merino,6.3
+MCD,None,6.0
+MCD,H. Çalhanoğlu,6.6
+LE,Balde,6.6
+ZGE,N. Schlotterbeck,6.6
+ZGD,W. Saliba,5.8
+LD,F. Mendy,6.0
+GOL,É. Mendy,7.5

@@ -1,0 +1,14 @@
+ATA,M. Nzola,6.0
+ATA,L. Martínez,7.0
+MEI,J. Musiala,6.1
+ME,Rafa,5.3
+ME,None,7.
+MD,Nico Williams,7.
+MD,B. Saka,5.9
+VLE,K. Laimer,6.4
+VLD,None,6.6
+LE,Nuno Mendes,5.9
+ZGE,Éder Militão,6.5
+ZGD,C. Romero,6.8
+LD,D. Dumfries,5.7
+GOL,H. Lloris,6.5

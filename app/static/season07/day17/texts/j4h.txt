@@ -1,0 +1,15 @@
+PE,D. Kulusevski,6.0
+PE,N. González,9.4
+ATA,A. Isak,7.1
+PD,Gelson Martins,6.7
+PD,Pedro Gonçalves,6.3
+SA,Anderson Talisca,7.3
+MCE,Muniain,6.0
+MCE,N. Zaniolo,8.3
+MCD,E. Camavinga,6.6
+LE,L. Spinazzola,6.9
+ZGE,Sergio Ramos,6.6
+ZGD,Gonçalo Inácio,7.2
+LD,Nuno Tavares,6.7
+LD,R. Baku,5.5
+GOL,A. Onana,5.6
