@@ -2,7 +2,7 @@ PE,M. Rashford,6.1
 ATA,K. Mbappé,7.1
 PD,Rafael Leão,6.9
 MCE,Sergi Darder,6.5
-MC,Merino,6.8
+MC,Mikel Merino,6.8
 MCD,P. Zieliński,5.5
 MCD,Muniain,5.8
 LE,F. Mendy,6.8

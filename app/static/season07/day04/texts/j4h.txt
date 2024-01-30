@@ -6,6 +6,6 @@ MCD,Renato Sanches,6.5
 MD,D. Berardi,6.5
 LE,Angeliño,6.5
 ZGE,F. Tomori,6.4
-Z6D,J. Matip,5.6
+ZGD,J. Matip,5.6
 LD,M. Cash,7.2
 GOL,Ederson,5.3

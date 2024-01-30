@@ -8,6 +8,6 @@ MD,K. Kvaratskhelia,5.9
 VOL,N. Kanté,6.2
 LE,None,6.8
 ZGE,Rúben Dias,6.8
-ZGD,A. Bastoni,1.7
+ZGD,A. Bastoni,7.7
 LD,João Cancelo,6.8
 GOL,M. ter Stegen,6.9

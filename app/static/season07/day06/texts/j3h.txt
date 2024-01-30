@@ -7,5 +7,5 @@ MC,W. Ndidi,6.5
 ADE,T. Hernández,6.8
 ZGE,Marquinhos,6.9
 ZGD,Pau Torres,6.8
-ADD,J. Koundé,1.4
+ADD,J. Koundé,7.4
 GOL,M. Maignan,5.0

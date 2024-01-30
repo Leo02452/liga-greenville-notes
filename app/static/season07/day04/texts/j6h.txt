@@ -3,9 +3,9 @@ MEI,L. Goretzka,7.0
 ME,J. Sancho,8.1
 MDH.,None,7.3
 VLE,L. Pellegrini,7.0
-VLD,D. Núñez,1.4
+VLD,D. Núñez,7.4
 LE,Angeliño,6.6
-ZGE,F. Tomori,1.4
-Z6D,J. Matip,6.7
+ZGE,F. Tomori,7.4
+ZGD,J. Matip,6.7
 LD,M. Cash,7.0
 GOL,Ederson,6.0

@@ -1,6 +1,6 @@
 ATA,R. Kolo Muani,7.3
 MAE,K. Mbappé,6.6
-MAD,None,1.5
+MAD,None,7.5
 MCE,A. Tchouaméni,7.2
 MC,Mikel Merino,6.0
 MCD,N. Fekir,6.4

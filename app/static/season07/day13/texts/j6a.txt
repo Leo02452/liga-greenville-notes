@@ -1,5 +1,5 @@
 ATE,C. Immobile,6.4
-ATD,None,5.7
+ATD,A. Gómez,5.7
 ATD,Gabriel Martinelli,6.3
 MEE,Á. Correa,6.3
 MEI,D. Mertens,5.8

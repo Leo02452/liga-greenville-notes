@@ -6,7 +6,7 @@ MCE,F. de Jong,6.8
 MCD,E. Fernández,5.8
 VOL,Rodri,6.2
 LE,Álex Moreno,6.4
-ZGE,S. Botman,1.4
+ZGE,S. Botman,7.4
 ZGD,J. Stones,6.6
-LD,Carvajal,1.2
+LD,Carvajal,7.2
 GOL,J. Oblak,6.7

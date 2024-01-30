@@ -9,5 +9,5 @@ VOL,Rodri,7.8
 LE,Álex Moreno,7.2
 ZGE,None,7.0
 ZGD,J. Stones,7.
-LD,Carvajal,1.4
+LD,Carvajal,7.4
 GOL,J. Oblak,5.9

@@ -1,4 +1,4 @@
-ATE,T. Werner,1.7
+ATE,T. Werner,7.7
 ATD,P. Dybala,7.1
 ME,F. Chiesa,7.0
 MCE,İ. Gündoğan,6.8

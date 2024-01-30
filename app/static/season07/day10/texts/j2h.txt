@@ -1,5 +1,5 @@
 ATA,A. Griezmann,7.
-MES.,None,1.4
+MES.,None,7.4
 MCE,None,6.3
 MCD,Luis Alberto,5.6
 MCD,R. Bentancur,5.7

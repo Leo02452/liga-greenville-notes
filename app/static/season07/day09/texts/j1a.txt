@@ -10,5 +10,5 @@ VLD,F. Kessié,8.3
 LE,J. Frimpong,6.8
 ZGE,K. Koulibaly,6.7
 ZGD,R. Araujo,6.3
-LD,J. Cuadrado,1.5
+LD,J. Cuadrado,7.5
 GOL,W. Szczęsny,5.9

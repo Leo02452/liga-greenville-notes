@@ -9,7 +9,7 @@ VOL,Q. Timber,6.0
 LE,Cucurella,6.0
 LE,Álex Moreno,6.6
 ZGE,None,7.
-Z6D,J. Timber,6.0
-Z6D,J. Stones,6.7
-LP,Carvajal,6.1
+ZGD,J. Timber,6.0
+ZGD,J. Stones,6.7
+LD,Carvajal,6.1
 GOL,J. Oblak,6.7

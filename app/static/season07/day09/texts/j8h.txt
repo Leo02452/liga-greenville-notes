@@ -7,8 +7,8 @@ MEI,M. Reus,6.3
 MCE,R. De Paul,6.6
 MCE,T. Partey,6.1
 MCD,Bruno Guimarães,7.
-LE,D. Calabria,1.9
+LE,D. Calabria,7.9
 ZGE,R. Varane,6.8
 ZGD,M. de Ligt,6.6
-LD,N. Mazraoui,1.6
+LD,N. Mazraoui,7.6
 GOL,M. Neuer,7.

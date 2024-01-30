@@ -10,5 +10,5 @@ MCD,Bruno Guimarães,6.3
 LE,D. Calabria,7.6
 ZGE,R. Varane,7.7
 ZGD,M. de Ligt,6.6
-LD,N. Mazraoui,1.4
+LD,N. Mazraoui,7.4
 GOL,M. Neuer,6.5

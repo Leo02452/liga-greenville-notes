@@ -9,4 +9,4 @@ LE,Jordi Alba,6.9
 ZGE,N. Süle,6.0
 ZGD,Bremer,6.6
 LD,None,7.6
-GOL,K. Trapp,1.2
+GOL,K. Trapp,7.2

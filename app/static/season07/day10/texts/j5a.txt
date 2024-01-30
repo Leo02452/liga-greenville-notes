@@ -1,10 +1,10 @@
-PE,None,6.0
+PE,A. Gómez,6.0
 ATA,C. Immobile,7.
 ATD,S. Gnabry,6.4
 PD,I. Sarr,7.
 MEI,Á. Correa,5.8
 MED,None,6.7
-MCE,S. Tonali,1.4
+MCE,S. Tonali,7.4
 MCD,D. Mertens,6.2
 VLD,F. Kessié,7.
 LE,J. Cuadrado,6.4

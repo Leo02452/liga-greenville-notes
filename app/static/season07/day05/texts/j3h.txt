@@ -6,8 +6,8 @@ SA,N. Zaniolo,8.2
 SA,Anderson Talisca,6.4
 MCE,F. Wirtz,6.1
 MCD,E. Camavinga,6.5
-LE,L. Spinazzola,1.5
-ZGE,None,1.5
+LE,L. Spinazzola,7.5
+ZGE,None,7.5
 ZGD,P. Kimpembe,7.0
-LD,R. Baku,1.6
+LD,R. Baku,7.6
 GOL,A. Onana,6.8

@@ -1,7 +1,7 @@
 ATA,E. Haaland,7.8
-MEI,Ferran Torres,1.6
+MEI,Ferran Torres,7.6
 ME,A. Danjuma,7.0
-MD,Antony,1.6
+MD,Antony,7.6
 VLE,Thiago,6.6
 VLD,M. Verratti,6.1
 LE,A. Davies,6.7

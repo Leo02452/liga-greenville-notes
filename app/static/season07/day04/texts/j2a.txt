@@ -8,6 +8,6 @@ MC,Fabinho,6.7
 MCD,K. De Bruyne,7.8
 LE,A. Robertson,7.3
 ZGE,V. van Dijk,6.9
-ZGD,A. Laporte,1.4
+ZGD,A. Laporte,7.4
 LD,K. Walker,7.5
 GOL,G. Kobel,7.

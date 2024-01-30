@@ -2,11 +2,11 @@ ATA,Matheus Cunha,6.8
 ME,S. Mané,7.3
 MCE,None,6.3
 MCD,A. Griezmann,7.0
-MD,Raphinha,1.6
+MD,Raphinha,7.6
 VOL,Luis Alberto,5.8
 LE,T. Lemar,5.8
 LE,L. Shaw,6.6
-ZGE,M. Škriniar,1.4
+ZGE,M. Škriniar,7.4
 ZGD,S. Coates,6.4
 ZGD,S. de Vrij,5.4
 LD,R. Bentancur,6.4

@@ -1,13 +1,13 @@
 ATA,Diogo Jota,6.9
-ATA,H. Son,1.7
+ATA,H. Son,7.7
 MAD,L. Messi,7.8
 ME,Neymar Jr,8.3
 MCE,J. Bellingham,6.0
 MCE,N. Barella,4.7
 MCD,Marcos Llorente,5.9
 VOL,N. Kanté,7.8
-LE,None,1.6
-ZGE,Rúben Dias,1.6
+LE,None,7.6
+ZGE,Rúben Dias,7.6
 ZGD,A. Bastoni,6.2
 LD,João Cancelo,7.2
-GOL,M. ter Stegen,1.7
+GOL,M. ter Stegen,7.7

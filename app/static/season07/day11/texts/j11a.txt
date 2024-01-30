@@ -1,7 +1,7 @@
-PE,L. Díaz,1.6
+PE,L. Díaz,7.6
 ATA,R. Lukaku,6.8
-PD,Á. Di María,1.6
-MEI,R. Sterling,1.9
+PD,Á. Di María,7.6
+MEI,R. Sterling,7.9
 MCE,J. Henderson,6.7
 MCD,Joelinton,6.0
 MCD,T. Kroos,6.7

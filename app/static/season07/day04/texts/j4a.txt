@@ -6,6 +6,6 @@ MCD,X. Schlager,6.4
 VOL,E. Camavinga,7.8
 LE,L. Spinazzola,7.2
 ZGE,Sergio Ramos,7.2
-ZG6D,P. Kimpembe,7.5
+ZGD,P. Kimpembe,7.5
 LD,R. Baku,6.7
 GOL,A. Onana,7.0

@@ -1,6 +1,6 @@
-ATA,E. Haaland,1.4
+ATA,E. Haaland,7.4
 MEE,J. Brandt,7.5
-MED,None,6.6
+MED,M. Verratti,6.6
 ME,F. Kostić,7.5
 MC,M. Brozović,7.3
 MD,Antony,8.3

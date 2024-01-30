@@ -7,6 +7,6 @@ MCD,K. Havertz,6.0
 ADE,T. Hernández,6.9
 ZGE,Pau Torres,7.8
 ZAG,Marquinhos,6.7
-ZGD,J. Koundé,1.4
+ZGD,J. Koundé,7.4
 ADD,M. Ødegaard,6.5
 GOL,M. Maignan,5.7

@@ -1,11 +1,11 @@
 PE,M. Rashford,6.6
-ATA,K. Mbappé,1.9
-PD,None,1.9
+ATA,K. Mbappé,7.9
+PD,None,7.9
 MCE,Sergi Darder,6.2
-MC,Merino,6.9
-MCD,Anderson Talisca,1.6
+MC,Mikel Merino,6.9
+MCD,Anderson Talisca,7.6
 LE,F. Mendy,7.7
 ZGE,N. Schlotterbeck,7.3
-Z6D,None,7.2
-LO,Balde,7.5
+ZGD,None,7.2
+LD,Balde,7.5
 GOL,É. Mendy,6.9

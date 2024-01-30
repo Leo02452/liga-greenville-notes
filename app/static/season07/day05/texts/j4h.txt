@@ -2,14 +2,14 @@ ATA,None,6.0
 ATA,None,7.4
 MEE,Iñaki Williams,6.0
 MEE,Oyarzabal,6.3
-MEI,None,6.8
+MEI,Canales,6.8
 MED,J. Doku,6.0
 MED,W. Zaha,6.6
 VLE,Y. Tielemans,7.
 VLD,E. Can,6.0
-VLD,None,7.0
+VLD,P. Pogba,7.0
 LE,M. Acuña,7.2
 ZGE,None,6.4
 ZGD,M. Ginter,7.
-LD,A. Hakimi,1.2
+LD,A. Hakimi,7.2
 GOL,K. Navas,6.2

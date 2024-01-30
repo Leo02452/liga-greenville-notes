@@ -1,6 +1,6 @@
 ATA,K. Benzema,7.5
 MAE,V. Osimhen,6.8
-MAE,None,1.6
+MAE,None,7.6
 MAD,Rodrygo,6.0
 MCE,Bernardo Silva,6.0
 MCE,F. Valverde,6.8

@@ -1,4 +1,4 @@
-PE,None,1.4
+PE,None,7.4
 ATA,Cristiano Ronaldo,8.4
 PD,K. Coman,7.9
 MEI,C. Nkunku,8.0
@@ -6,6 +6,6 @@ MCE,Casemiro,7.2
 MCD,J. Kimmich,6.4
 LE,R. Guerreiro,7.5
 ZGE,A. Romagnoli,7.1
-76D,M. Akanji,7.0
-LO,R. James,6.6
+ZGD,M. Akanji,7.0
+LD,R. James,6.6
 GOL,G. Donnarumma,6.6

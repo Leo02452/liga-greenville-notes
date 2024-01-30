@@ -3,7 +3,7 @@ PE,Y. Carrasco,7.8
 ATA,T. Abraham,6.2
 ATA,A. Isak,8.2
 PD,D. Kulusevski,6.8
-PD,N. González,1.4
+PD,N. González,7.4
 SA,None,8.1
 SA,Anderson Talisca,8.1
 MCE,F. Wirtz,7.
@@ -11,6 +11,6 @@ MCD,Ricardo Horta,6.0
 MCD,E. Camavinga,7.9
 LE,L. Spinazzola,7.3
 ZGE,None,7.8
-ZGD,P. Kimpembe,1.6
+ZGD,P. Kimpembe,7.6
 LD,R. Baku,7.3
 GOL,A. Onana,7.0

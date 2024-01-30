@@ -1,4 +1,4 @@
-ATA,A. Griezmann,1.5
+ATA,A. Griezmann,7.5
 MES.,None,6.9
 ME,T. Lemar,6.7
 MCE,None,6.7

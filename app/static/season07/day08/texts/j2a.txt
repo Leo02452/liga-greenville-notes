@@ -1,9 +1,9 @@
 ATA,W. Ben Yedder,6.9
 MEE,Oyarzabal,6.5
-MEI,None,6.6
+MEI,Canales,6.6
 MED,W. Zaha,6.6
-VLE,Y. Tielemans,1.4
-VLD,None,7.0
+VLE,Y. Tielemans,7.4
+VLD,P. Pogba,7.0
 LE,None,8.2
 ZGE,S. Savić,6.8
 ZGD,M. Ginter,6.6

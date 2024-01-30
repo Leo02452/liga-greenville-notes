@@ -2,7 +2,7 @@ PE,Gabriel Martinelli,6.3
 ATA,C. Immobile,6.3
 PD,S. Gnabry,6.5
 MEE,Á. Correa,6.1
-MEI,None,5.7
+MEI,A. Gómez,5.7
 MCE,D. Mertens,6.0
 MCE,S. Tonali,6.8
 MCD,F. Kessié,6.4

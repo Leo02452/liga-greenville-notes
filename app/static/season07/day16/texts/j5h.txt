@@ -2,7 +2,7 @@ PE,I. Sarr,5.9
 ATA,C. Immobile,6.2
 PD,Á. Correa,6.1
 MEE,Gabriel Martinelli,5.6
-MEI,A Gómez,5.9
+MEI,A. Gómez,5.9
 MEI,D. Mertens,5.8
 MEDS.,None,6.4
 MCE,S. Tonali,7.

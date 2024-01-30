@@ -5,7 +5,7 @@ MEI,R. Sterling,6.4
 MCE,J. Henderson,7.0
 MCD,T. Kroos,7.
 LE,Jordi Alba,7.3
-ZGE,None,1.6
+ZGE,None,7.6
 ZGD,Bremer,7.0
 LD,T. Alexander-Arnold,6.9
 GOL,K. Trapp,7.

@@ -4,7 +4,7 @@ PD,K. Coman,8.1
 MEI,C. Nkunku,7.2
 MCE,Casemiro,6.7
 MCD,J. Kimmich,8.2
-LE,R. Guerreiro,1.4
+LE,R. Guerreiro,7.4
 ZGE,A. Romagnoli,6.2
 ZGD,M. Akanji,7.2
 LD,R. James,7.2

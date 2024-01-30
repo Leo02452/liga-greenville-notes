@@ -1,4 +1,4 @@
-ATA,R. Lewandowski,1.4
+ATA,R. Lewandowski,7.4
 MEI,Bruno Fernandes,6.0
 MEI,L. Messi,7.0
 ME,Neymar Jr,8.3

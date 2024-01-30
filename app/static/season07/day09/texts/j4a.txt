@@ -9,6 +9,6 @@ VLE.,None,6.6
 VLD,F. Kessié,8.4
 LE,J. Frimpong,8.6
 ZGE,K. Koulibaly,6.4
-ZGD,R. Araujo,1.6
+ZGD,R. Araujo,7.6
 LD,J. Cuadrado,8.6
 GOL,W. Szczęsny,8.1

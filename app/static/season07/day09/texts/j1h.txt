@@ -8,8 +8,8 @@ MCE,F. Valverde,6.2
 MCE,Fabinho,7.
 MCD,K. De Bruyne,6.9
 LE,A. Robertson,7.
-ZGE,V. van Dijk,1.5
+ZGE,V. van Dijk,7.5
 ZGD,D. Upamecano,5.8
 ZGD,A. Laporte,6.9
-LD,K. Walker,1.2
+LD,K. Walker,7.2
 GOL,Alisson,6.8

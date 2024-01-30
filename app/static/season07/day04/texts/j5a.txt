@@ -6,6 +6,6 @@ MCD,E. Fernández,5.5
 VOL,Rodri,6.3
 LE,Álex Moreno,6.2
 ZGE,None,7.
-ZG6D,J. Stones,6.1
+ZGD,J. Stones,6.1
 LD,J. Timber,7.0
 GOL,J. Oblak,5.8

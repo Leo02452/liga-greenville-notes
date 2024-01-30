@@ -1,7 +1,7 @@
 ATA,C. Gakpo,5.8
 ATA,M. Depay,7.1
-MAE,P. Foden,1.6
-MAD,O. Dembélé,1.6
+MAE,P. Foden,7.6
+MAD,O. Dembélé,7.6
 MCE,F. de Jong,6.8
 MC,Rodri,6.9
 MCD,None,5.8

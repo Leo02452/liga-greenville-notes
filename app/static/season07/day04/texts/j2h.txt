@@ -7,6 +7,6 @@ MC,Pedri,6.2
 MCD,A. Tchouaméni,6.9
 LE,T. Hernández,6.7
 ZGE,Marquinhos,6.4
-ZG6D,Pau Torres,7.0
+ZGD,Pau Torres,7.0
 LD,J. Koundé,6.3
 GOL,M. Maignan,5.4

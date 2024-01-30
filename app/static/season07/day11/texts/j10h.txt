@@ -7,5 +7,5 @@ VLD‘,K. Laimer,7.3
 LE,Nuno Mendes,6.7
 ZGE,C. Romero,5.8
 ZGD,Éder Militão,6.2
-LD,D. Dumfries,1.4
+LD,D. Dumfries,7.4
 GOL,H. Lloris,6.2

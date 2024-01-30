@@ -1,6 +1,6 @@
 ATA,C. Immobile,6.7
 MEE,Gabriel Martinelli,6.8
-MEI,A Gómez,5.9
+MEI,A. Gómez,5.9
 MEI,D. Mertens,5.8
 MEDS.,None,6.0
 VLE,S. Tonali,7.0

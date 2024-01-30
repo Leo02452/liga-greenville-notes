@@ -1,12 +1,12 @@
 ATA,C. Gakpo,8.3
-ATA,M. Depay,1.6
+ATA,M. Depay,7.6
 MAE,P. Foden,8.2
 MAD,O. Dembélé,6.9
 MCE,F. de Jong,7.3
 MC,Rodri,6.7
 MCD,None,5.6
 MCD,E. Fernández,6.9
-LE,Álex Moreno,1.6
+LE,Álex Moreno,7.6
 ZGE,J. Stones,6.7
 ZGD,None,7.
 LD,Carvajal,6.2
