@@ -11,14 +11,8 @@ positions_list = [
 ]
 
 teams = [
-    'Boca Juniors', 'Estudiantes',
-    'Independiente', 'Racing',
-    'River Plate', 'Rosario Central',
-    'San Lorenzo', 'Velez Sarsfield',
-    'Argentinos Jrs', 'Arsenal de Sarandi',
-    'Defensa Y Justicia', 'Huracan',
-    'Lanus', 'Newells Old Boys',
-    'Talleres', 'Tigre'
+    'Lens', 'Lille', 'Lyon', 'Monaco', 'Nantes', 'O. Marseille', 'PSG',
+    'Brest', 'Lorient', 'Montpellier', 'Strasbourg', 'Toulouse'
 ]
 
 competitions = ['A', 'B', 'C', 'SC']
