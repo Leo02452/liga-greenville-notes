@@ -1,4 +1,8 @@
-import pytesseract, os, csv
+import csv
+import os
+
+import pytesseract
+
 pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
 
 def extract_image_to_text(image_path, file_path):

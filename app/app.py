@@ -3,8 +3,15 @@ from app.helpers.extract_notes_to_text import extract_notes
 from app.helpers.season_static_data import teams, competitions, positions_list
 from app.helpers.converters import extract_text_to_list, extract_list_to_csv
 import os
-from app.helpers.google_spreadsheets.write_in_gspreadsheet import write_players_notes_in_google_sheets
-from app.helpers.google_spreadsheets.get_active_players import active_players_list
+
+from flask import Flask, redirect, render_template, request, session
+
+from .helpers.converters import extract_list_to_csv, extract_text_to_list
+from .helpers.extract_notes_to_text import extract_notes
+from .helpers.google_spreadsheets.get_active_players import active_players_list
+from .helpers.google_spreadsheets.write_in_gspreadsheet import \
+    write_players_notes_in_google_sheets
+from .helpers.season_static_data import competitions, positions_list, teams
 
 app = Flask(
     __name__,
