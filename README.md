@@ -107,7 +107,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 5 - Execute a aplicação:
 
 ```
- export FLASK_APP=app/app.py && flask run --reload
+ export FLASK_APP=api/app.py && flask run --reload
 ```
 
 6 - Acesse em seu navegador o endereço `127.0.0.1:5000` 

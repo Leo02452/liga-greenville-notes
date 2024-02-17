@@ -6,6 +6,6 @@ scopes = [
     'https://www.googleapis.com/auth/drive'
 ]
 
-creds = ServiceAccountCredentials.from_json_keyfile_name('app/helpers/google_spreadsheets/creds.json', scopes=scopes)
+creds = ServiceAccountCredentials.from_json_keyfile_name('api/helpers/google_spreadsheets/creds.json', scopes=scopes)
 file = gspread.authorize(creds)
 workbook = file.open('24_France')

@@ -46,8 +46,8 @@ def show_notes(
         image_paths.append(home_image)
         image_paths.append(away_image)
     
-        home_file_path = f'app/static/{season}/{day}/texts/j{index}h.txt'
-        away_file_path = f'app/static/{season}/{day}/texts/j{index}a.txt'
+        home_file_path = f'api/static/{season}/{day}/texts/j{index}h.txt'
+        away_file_path = f'api/static/{season}/{day}/texts/j{index}a.txt'
         home_file_data = extract_text_to_list(home_file_path)
         away_file_data = extract_text_to_list(away_file_path)
         extracted_data.append(home_file_data)
