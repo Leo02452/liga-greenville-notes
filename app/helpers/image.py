@@ -1,4 +1,4 @@
-from PIL import Image, ImageOps
+from PIL import Image, ImageOps, ImageEnhance
 
 def invert_colors(image_path, inverted_image_path):
     image = Image.open(image_path)
@@ -7,7 +7,10 @@ def invert_colors(image_path, inverted_image_path):
     inv_image = ImageOps.invert(rgb_image)
     r2,g2,b2 = inv_image.split()
     inverted_image = Image.merge('RGB', (r2,g2,b2,))
-    inverted_image.save(inverted_image_path)
+    bw_image = ImageOps.grayscale(inverted_image)
+    enhacer = ImageEnhance.Contrast(bw_image)
+    bw_image = enhacer.enhance(2.5)
+    bw_image.save(inverted_image_path)
 
 def combine_images(img1, img2, saved_image_path):
     img1 = Image.open(img1)
