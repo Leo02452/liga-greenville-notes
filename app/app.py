@@ -1,7 +1,3 @@
-from flask import Flask, render_template, request, redirect, session
-from app.helpers.extract_notes_to_text import extract_notes
-from app.helpers.season_static_data import teams, competitions, positions_list
-from app.helpers.converters import extract_text_to_list, extract_list_to_csv
 import os
 
 from flask import Flask, redirect, render_template, request, session
@@ -15,6 +11,8 @@ from .helpers.season_static_data import competitions, positions_list, teams
 
 app = Flask(
     __name__,
+    static_folder='./static',
+    template_folder='./templates',
     )
 
 app.secret_key = 'your_secret_key'
