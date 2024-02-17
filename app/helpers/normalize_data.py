@@ -30,6 +30,7 @@ def replace_players(players_list, txt_player):
             return player
         elif txt_player_without_accent == player:
             return player
+    print(txt_player)
 
 def remove_empty_lines(file_path):
     with open(file_path, 'r') as input_file, open('temp_file.txt', 'w') as temp_file:
