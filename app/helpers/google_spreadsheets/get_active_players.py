@@ -1,10 +1,8 @@
-import gspread
+# import gspread
+# from oauth2client.service_account import ServiceAccountCredentials
 
-gc = gspread.oauth()
-
-sh = gc.open("23 - Argentina_Greenville")
-
-data = sh.get_worksheet(5).get_all_values()
+from .spreadsheet_agent import workbook
+data = workbook.worksheet('Jog_ativos').get_all_values()
 
 active_players_list = [
     value.strip() for sublist in data

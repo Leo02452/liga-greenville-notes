@@ -1,9 +1,7 @@
-import gspread
+from .spreadsheet_agent import workbook
 
 def write_players_notes_in_google_sheets(players_list, game_info):
-    gc = gspread.oauth()
-    spreadsheet = gc.open("23 - Argentina_Greenville")
-    worksheet = spreadsheet.worksheet("Data")
+    worksheet = workbook.worksheet("Data")
     column_a = worksheet.col_values(1)
     first_avaiable_row = len(column_a) + 1
     data_to_add = []
