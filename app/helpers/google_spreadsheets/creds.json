@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "notes-greenville-league",
+  "private_key_id": "243b2455975d1bcdcf3e809f0ccab05c2524efbc",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC03csgJESv8ZBW\nn+FjOeUFsAISOcKd8J9BOT8Ovd7D1MarDDWxCLu/OWZm/ZUjKe4kjGg2Ryq7o836\nj+JYHb6EscAFE2d7DfrJcz3Y184wX2s4feLWVu0R80Tp13xrvGFk8l4Nkqk8RIKj\nxwi2vZNpHSOMzQ4UYyFIg4G3SvlzrmtiqV1+15bpOrgz7D2YOt5bUoSwTIfhymEa\nIrQhmwiT7lnQuAmdC2i3OjYtOJ65zGx7jjOh1qhUguYbyewlAT0wDx3waHbZKGS9\nfcsvHHHkq3AyQSUzEX2Fa7AiXd4O4FPJ1MxHU93XGvxcIQBdaodO7LXmJO7Is80U\nTABXP1ZNAgMBAAECggEAATABnbgcCvGxlzgDUVT3rklhDub5/AwXGsttVBBZrmLi\nKQy/LE0Yra4K5sgC2vfAAtWfK4tDekO398192KlDvBHn5ycHXQH5Y90E8Qlw5tVn\n87eArhQx1OMKUH5XNUsUpdNUXCkN2zTx8wq8zmjBPbi9joOcJ45QRIfq6dETgTeg\n0TKTjaJF77fZsg6EcOWU15AbJKZod4J6iCdmkd+/VevQss+sQsPYYpYb+pbCiaUf\n1aaYB7wFCYlu3AkPDU4jKdhIK07PLrvzc6l7quShl+8su8u5/0+CZkwLNrBAB/4/\npahC2oPm3keTYupB8fIZfwsiyumQYokvpJNCafqh6wKBgQDuFbnj7hTdl5v5RVcv\nTdCWDcwhmQbTsXCAsp4PWkZfk4OZUc/2ZSAr+cLkCMBQHLwmy5rIVI3Zh/0cn4lW\nrHMPUfDLPOOdqfaocIz/wAK9CiBQy+vzNXKXa55LpVSwb0oI1TbjMSnuMBlsoIKW\nhpX+CGAYj9ZESPr8wyTLl+PBPwKBgQDCedtV+3ncuPfMnHlGFkkfG2cmQVz0q0v9\navMMnBGa+tqWekh4kpVMi+lUs6W+hIPwgfIP5zk8xL8kDZVtz2wMcWWls1pvcFHP\nkZNA41noZT3M5mLiAm+JOlHCSk8/6+3X1RSX5GT2n8f9+sZMNaLVlHdp2L4ZRpDo\nBLPqD3e5cwKBgQDnNxZGcwq0gO4q0NpwyCNP9qpN3q0wnVviwJSb2FILs9jT5w4N\n/fuWeYJ5rr4Fj0Jycr0o3GS940E+sPjRwbwkHrG4zrNGhK9UualVHoYKTHFBxiip\nEzjsMMmUMUXj6tB9b4NUdISCGxg11FO+F4pHIJ8ie13dBvsoyeNMDYBURQKBgCxW\nFaATleOxM6UtIyTMXd0+pRR+oE+TYd6jbEe6qPTZLc5SkIUUff8Wgppx3l6B3YaO\nSX5Aq7bj7+OrSR7gw/ROQes16W8wfyZAPP71FgE6W42EFJUMExuI9SzDPjAHfJDR\nHkHGqxHiuXh4nI6xR69DirnR1Pz0LoMG13GMFzJrAoGADkgASXAanaFNH5DNcKke\nxa3cAWzyDQI2G+3d/KFujFi1d64u7EkFhhqnCDecd9w5JK8AdjwBXIwa6KiU6EGo\nIghMvXsQwS4ZbUoi9boJK7VESgWSoSJX3Mg0IGXUj+aVGGJeGaluuk3xJdKxINps\nyNJe+ibsC2UdNl0ErCRCCaM=\n-----END PRIVATE KEY-----\n",
+  "client_email": "accessgoogleapis@notes-greenville-league.iam.gserviceaccount.com",
+  "client_id": "109880108542185545672",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/accessgoogleapis%40notes-greenville-league.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
