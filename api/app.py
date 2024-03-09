@@ -1,13 +1,12 @@
-import os
-
 from flask import Flask, redirect, render_template, request, session
 
-from .helpers.converters import extract_list_to_csv, extract_text_to_list
+from .helpers.converters import extract_text_to_list
 from .helpers.extract_notes_to_text import extract_notes
 from .helpers.google_spreadsheets.get_active_players import active_players_list
 from .helpers.google_spreadsheets.write_in_gspreadsheet import \
     write_players_notes_in_google_sheets
 from .helpers.season_static_data import competitions, positions_list, teams
+from .helpers.onedrive.handle_onedrive_files import get_texts_list, get_file_content, get_images_list
 
 app = Flask(
     __name__,
@@ -23,40 +22,30 @@ def index():
         if all(field in request.form for field in ['season', 'day', 'number_of_games']):
             season = request.form['season']
             day = request.form['day']
-            number_of_games = request.form['number_of_games']
 
-            image_dir = os.path.join(app.root_path, 'static', season, day, 'images', 'originals')
-            os.makedirs(image_dir, exist_ok=True)
-
-            for key, file in request.files.items():
-                if key.startswith('home_image_') or key.startswith('away_image_'):
-                    file_path = os.path.join(image_dir, file.filename)
-                    file.save(file_path)
-
-            extract_notes(season, day, int(number_of_games))
-            return redirect(f'/notes-registration/{season}/{day}/{number_of_games}')
+            extract_notes(season, day)
+            return redirect(f'/notes-registration/{season}/{day}')
 
     return render_template('index.html')
 
-@app.route('/notes-registration/<season>/<day>/<number_of_games>', methods=['GET', 'POST'])
+@app.route('/notes-registration/<season>/<day>', methods=['GET', 'POST'])
 def show_notes(
-    season, day, number_of_games
+    season, day
     ):
 
-    image_paths = []
     extracted_data = []
-    for index in range(1, (int(number_of_games) + 1)):
-        home_image = f'{season}/{day}/images/j{index}h.png'
-        away_image = f'{season}/{day}/images/j{index}a.png'
-        image_paths.append(home_image)
-        image_paths.append(away_image)
-    
-        home_file_path = f'api/static/{season}/{day}/texts/j{index}h.txt'
-        away_file_path = f'api/static/{season}/{day}/texts/j{index}a.txt'
-        home_file_data = extract_text_to_list(home_file_path)
-        away_file_data = extract_text_to_list(away_file_path)
-        extracted_data.append(home_file_data)
-        extracted_data.append(away_file_data)
+    texts_list = get_texts_list(season, day)
+    images_list = get_images_list(season, day, 'Completas')
+    for text in texts_list:
+        text_id = text['id']
+        file_content = get_file_content(text_id)
+        team_data = extract_text_to_list(file_content)
+        extracted_data.append(team_data)
+
+    image_paths = []
+    for image in images_list:
+        image_url = image['webUrl']
+        image_paths.append(image_url)
     
     session['image_paths'] = image_paths
     session['extracted_data'] = extracted_data
@@ -71,7 +60,7 @@ def show_notes(
         active_players_list=active_players_list,
         extracted_data=extracted_data,
         positions_list=positions_list,
-        )
+    )
 
 @app.route('/game-submition', methods=['POST'])
 def submit_game():
@@ -116,31 +105,6 @@ def submit_game():
         else:
              index += 1
              break
-        
-    season = session.get('season')
-    day = session.get('day')
-
-    extract_list_to_csv(
-        home_team_players,
-        {
-            "team": home_team,
-            "opponent": away_team,
-            "competition": competition,
-        },
-        season,
-        day,
-    )
-
-    extract_list_to_csv(
-        away_team_players,
-        {
-            "team": away_team,
-            "opponent": home_team,
-            "competition": competition,
-        },
-        season,
-        day
-    )
 
     write_players_notes_in_google_sheets(
          home_team_players,
