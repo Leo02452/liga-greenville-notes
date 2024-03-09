@@ -44,11 +44,25 @@ def remove_empty_lines(file_path):
 
 def normalize_position(position):
     grouped_replacements = {
-        'ZGD': ['ZED', 'ZG6D', 'Z6D', '76D'],
-        'ZGE': ['Z6E'],
-        'LD': ['LO', 'LP', 'LB'],
-        'MEI': ['MEL'],
-        '': ['M.'],
+        'ZGD': [
+            'Z@D',
+            'ZED',
+            # 'ZG6D', 'Z6D', '76D'
+        ],
+        'ZGE': [
+            '2GE'
+            # 'Z6E'
+        ],
+        'LD': [
+            # 'LO',
+            'LP','UP', 'I)', 'LB',
+        ],
+        # 'MEI': ['MEL'],
+        'GOL': ['@L', 'GL', 'QL'],
+        '': [
+            "'",
+            # 'M.'
+        ],
     }
 
     uppercase_position = position.upper()
@@ -61,22 +75,23 @@ def normalize_position(position):
 def normalize_player_name(player_name):
     replacements = {
         'ii': 'u',
-        '0.': 'O.',
         'fi': 'n',
         'ié': 'ić',
-        'T. AlexanderAr...': 'T. Alexander-Arnold',
-        'A. Zambo Anguis...': 'A. Zambo Anguissa',
-        'D. Nujiez': 'D. Nuñez',
-        'R. Ledo': 'R. Leão',
-        '6. Kobel': 'G. Kobel',
-        'Kessić': 'Kessié',
-        'Taglianco': 'Tagliafico',
-        'Vinicius Jr.': 'Vini Jr.'
+        'Mério': 'Mario',
+        '$': '',
+        # '0.': 'O.',
+        # 'T. AlexanderAr...': 'T. Alexander-Arnold',
+        # 'A. Zambo Anguis...': 'A. Zambo Anguissa',
+        # 'D. Nujiez': 'D. Nuñez',
+        # 'R. Ledo': 'R. Leão',
+        # '6. Kobel': 'G. Kobel',
+        # 'Kessić': 'Kessié',
+        # 'Taglianco': 'Tagliafico',
     }
 
     grouped_replacements = {
-        '': ['@', '*', '=', '>', '»', '+', '~', '®', '©', '-', '_', '—', '&', '%'],
-        'I.': ['l.', '|.']
+        '': ['+', '*', '>', '@', '—', '_', '', '='],
+        'I.': ['l.', '|.', 'i.']
     }
 
     for replacement_key, replacement_values in grouped_replacements.items():
