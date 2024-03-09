@@ -3,28 +3,29 @@ import os
 
 import pytesseract
 
+from io import BytesIO
+from PIL import Image
+
 pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'
 
-def extract_image_to_text(image_path, file_path):
-    with open(file_path, mode='w') as file:
-        custom_config = r'--psm 6 --oem 1'
-        text = pytesseract.image_to_string(
-            image_path,
-            config=custom_config,
-        )
-        file.write(text)
+def extract_image_to_text(image_path):
+    custom_config = r'--psm 6 --oem 1'
+    text = pytesseract.image_to_string(
+        Image.open(BytesIO(image_path)),
+        config=custom_config,
+    )
+    return text
 
-def extract_text_to_list(file_path):
+def extract_text_to_list(file_content):
     extracted_data = []
-    with open(file_path, 'r') as file:
-        lines = file.readlines()
-        for line in lines:
-            position, player_name, note = line.split(',')
-            extracted_data.append({
-                "position": position,
-                "player_name": player_name,
-                "note": note,
-            })
+    lines = file_content.decode('utf-8').split('\n')
+    for line in lines:
+        position, player_name, note = line.split(',')
+        extracted_data.append({
+            "position": position,
+            "player_name": player_name,
+            "note": note,
+        })
     return extracted_data
 
 def extract_list_to_csv(players_list, game_info, season, day):
